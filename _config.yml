@@ -23,7 +23,7 @@ authors:
   medha:
     name: Medha
     #    site:
-    avatar: /assets/images/avatar1.jpg
+    avatar: assets/images/medha_text.png
     bio: "Hi i'm bob"
     email: mmehra.ta@mysummitps.org
   #    twitter:
@@ -53,7 +53,7 @@ defaults:
     values:
       layout: post
       author: medha
-      avatar: /assets/images/avatar1.jpg
+      avatar: assets/images/medha_text.png
 
   # all pages
   - scope:
