@@ -1,6 +1,14 @@
 ---
-subtitle: "[]{#_iadp9bnpgodm .anchor}Secretary Candidate"
-title: "[]{#_fav6scqmwu85 .anchor}Achintya"
+layout: post
+title: Achintya
+subtitle: Secretary Candidate
+author: medha
+categories:
+  - hello
+  - bye
+image: assets/images/home.jpg
+tags:
+  - summer
 ---
 
 ![]({{ site.baseurl }}/assets/images/achintya.jpg){width="3.1601563867016624in"
