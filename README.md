@@ -36,5 +36,9 @@ tags
 ### From docx
 
 - import docx into md using `Markdown Converter`
+    - If the formatting is bad, instead run
+      ```shell
+      pandoc --from docx --to gfm --standalone --no-highlight "Treaty of Versailles Resource Page.docx" > 2023-01-01-treaty.md
+      ```
 - fix anything wrong with it
 - follow [from md steps](#from-md)
