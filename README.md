@@ -10,6 +10,18 @@
 
 ## Journalism instructions
 
+### Terminology
+
+categories
+
+: topic
+
+tags
+
+: administrative tags
+
+: formatting (`featured`, `sticky`)
+
 ### Upon new author
 
 1. Add author to `authors` in [_config.yml](_config.yml)
@@ -17,6 +29,27 @@
 2. Add page `_pages/author-<name>.html`, for example [_pages/author-medha.html](_pages/author-medha.html)
    i. Contents should be identically [_pages/author-medha.html](_pages/author-medha.html),
    but find-and-replace (match case) `medha` with `<name>`
+
+### To post
+
+#### From md
+
+- put the markdown file in `_posts/`
+- add frontmatter to match other posts
+- change filename to `YYYY-MM-DD-whatever.md`
+- note that header image is not resized on the posts page,
+  and not necessarily resized on home/other pages
+- make sure all relative urls not in the front matter are of the form
+  `{{ site.baseurl }}/assets/images/greenline.png`
+  (not sure this is actually necessary but do it anyways)
+
+#### From docx
+
+- import docx into md using `Markdown Converter`
+- fix anything wrong with it
+- follow [from md steps](#from-md)
+
+-----
 
 ### Documentation
 
