@@ -17,6 +17,8 @@ permalink: "/contact.html"
 </label>
 </div>
 </div>
-<textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
+<label>
+<textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>
+</label>    
 <input class="btn btn-success" type="submit" value="Send">
 </form>
