@@ -21,12 +21,19 @@ plugins:
 
 authors:
   medha:
-    name: Medha
+    name: Medha Mehra
     #    site:
     avatar: assets/images/medha_text.png
-    bio: "Hi i'm bob"
+    bio: "Hi! I'm a 10th grader at Tahoma and the editor/founder of Tahoma Times."
     email: mmehra.ta@mysummitps.org
   #    twitter:
+
+  sean:
+    name: Sean Dolan
+    avatar: assets/images/avatar_sean.jpg
+    bio: "My name is Sean, and I am a High School Junior interested at the Tahoma Times. I am interested in real world 
+          news, such as politics, law, and local Tahoma news."
+    email: sdolan.ta@mysummitps.org
 
   #    sal:
   #      name:           Sal
