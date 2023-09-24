@@ -3,22 +3,25 @@ title: "Contact"
 permalink: "/contact.html"
 ---
 
-<form action="https://formspree.io/f/maygbpwa" method="POST">    
-<p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
-<div class="form-group row">
-<div class="col-md-6">
-<label>
-<input class="form-control" type="text" name="name" placeholder="Name*" required>
-</label>
-</div>
-<div class="col-md-6">
-<label>
-<input class="form-control" type="email" name="_replyto" placeholder="E-mail Address*" required>
-</label>
-</div>
-</div>
-<label>
-<textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>
-</label>    
-<input class="btn btn-success" type="submit" value="Send">
+<form action="https://formspree.io/f/maygbpwa" method="POST">
+    <p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
+    <div class="form-group row">
+        <div class="col-md-6">
+            <label>
+            Name
+            <input class="form-control" type="text" name="name" required>
+            </label>
+        </div>
+        <div class="col-md-6">
+            <label>
+            Email Address
+            <input class="form-control" type="email" name="_replyto" required>
+            </label>
+        </div>
+    </div>
+    <label>
+    Message
+    <textarea rows="8" class="form-control mb-3" name="message" required></textarea>
+    </label>    
+    <input class="btn btn-success" type="submit" value="Send">
 </form>
