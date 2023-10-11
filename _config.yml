@@ -98,7 +98,7 @@ authors:
 
   addie:
     name: Addie Allen
-    avatar: assets/images/avatar_addie.jpeg
+    avatar: assets/images/avatar_addie.jpg
     bio: "Hi! i'm Addie, a 10th grade journalist at Tahoma. I enjoy covering pieces on my interests."
     email: aallen.ta@mysummitps.org
 
@@ -110,7 +110,7 @@ authors:
 
   simon:
     name: Simon Lee
-    avatar: assets/images/avatar_addie.jpeg
+    avatar: assets/images/avatar_simon.jpeg
     bio: "I'm a 10th grader illustartor at tahoma. I like to draw comics and write about sports."
     email: slee.de@mysummitps.org
 
