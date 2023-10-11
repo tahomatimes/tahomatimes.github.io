@@ -90,6 +90,31 @@ authors:
     bio: "I’m interested in video journalism and taking pictures for events and helping the writers with they they need help with."
     email: tkim.ta@mysummitps.org
 
+  baja:
+    name: Baja Allen
+    avatar: assets/images/avatar_baja.jpg
+    bio: "My name is Baja Allen and I am a journalist. I will be covering politics and write op eds about current political topics and issues facing us both nationally and locally. I will also write about movies or tv shows when there is one that is better than the rookie."
+    email: ballen.ta@mysummitps.org
+
+  addie:
+    name: Addie Allen
+    avatar: assets/images/avatar_addie.jpeg
+    bio: "Hi! i'm Addie, a 10th grade journalist at Tahoma. I enjoy covering pieces on my interests."
+    email: aallen.ta@mysummitps.org
+
+  bruhns:
+    name: Bruhns Sada
+    avatar: assets/images/avatar_bruhns.jpg
+    bio: "Good day to you I am Bruhns Sada and I am a 10 grade student. I write about politics, and local Tahoma news."
+    email: sbruhns.ta@mysummitps.org
+
+  simon:
+    name: Simon Lee
+    avatar: assets/images/avatar_addie.jpeg
+    bio: "I'm a 10th grader illustartor at tahoma. I like to draw comics and write about sports."
+    email: slee.de@mysummitps.org
+
+
 
 
   #    sal:
