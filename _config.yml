@@ -138,8 +138,35 @@ authors:
     bio: "I am a 10th grade marketer at Tahoma Times. I will advertise this club and our articles."
     email: jsandstrom.ta@mysummitps.org
 
+  ali:
+    name: Alicia
+    avatar: assets/images/avatar_ali.jpg
+    bio: "Hi! I'm a 10th grade Journalist at Tahoma. I enjoy interviews, writing, and researching about pieces."
+    email: aarnonileitedeabreu.ta@mysummitps.org
 
+  annabelle:
+    name: Annabelle Zubrod
+    avatar: assets/images/avatar_annabelle.webp
+    bio: "Hi i'm a 10th grade illustrator at Tahoma, I enjoy drawing."
+    email: azubrod.ta@mysummitps.org
 
+  magnus:
+    name: Magnus Oelsner
+    avatar: assets/images/avatar_magnus.jpeg
+    bio: "Hi I’m Magnus"
+    email: moelsner.ta@mysummitps.org
+
+  millen:
+    name: Millen Kidane
+    avatar: assets/images/avatar_millen.png
+    bio: "Hi, my name is Millen Kidane I am a 10th grade marketer at Tahoma. I will help spread the word about our stories."
+    email: mkidane.ta@mysummitps.org
+
+  sarah:
+    name: Sarah Johnson
+    avatar: assets/images/avatar_sarah.jpg
+    bio: "Hi! I'm the head of marketing for the Tahoma Times. I will be advertising articles written by other students."
+    email: sjohnson.ta@mysummitps.org
 
   #    sal:
   #      name:           Sal
