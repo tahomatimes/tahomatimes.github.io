@@ -15,7 +15,7 @@ Last weekend, the Hamas government of Palestine launched a surprise attack on Is
 
 Benjamin Netanyahu, the prime minister of Israel, has declared war on Palestine, and plans a large retaliation. He states that this is only the beginning of the war and Israel will not tolerate any attacks against them.
 
-This conflict has meant losses to both sides, and this skirmish seems to be far from over. The only thing we can do now is hope that a resolution is met before even more damage occurs and lives are lost.
+This conflict has meant losses to both sides, and this conflict seems to be far from over. The only thing we can do now is hope that a resolution is met before even more damage occurs and lives are lost.
 
 ![](https://lh6.googleusercontent.com/C6ZyuAEwXrP9tNYpfpk8M9iy9R7JQNtLwiAq1Ctv-Gc0iYd68aeFf1tteXtijPFoMCS46FdRbLc9SYCXq8n24kGYhgnZNT7ZxpSYCwQwkAGlnYZhZ68ByqJ8O6vk88eSFoM1pXCm_lHsBwm9yb60PMg)
 _Benjamin Netanyahu is planning retaliation against Palestine. (Times of Israel)_
