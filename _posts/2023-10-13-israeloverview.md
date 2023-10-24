@@ -6,7 +6,7 @@ categories:
   - world news
 image: assets/images/header_gaza.jpg
 tags:
-  - featured
+  - sticky
 ---
 
 _Plume of smoke above Gaza - Unsplash - Mohammed Ibrahim_
