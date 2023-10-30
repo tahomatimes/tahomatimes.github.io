@@ -103,22 +103,37 @@ layout: default
 				</div>
 			</div>
             {% endif %}
-            
-            
-             <!-- Author Box -->
-                {% if page.author %}				
-				<div class="row mt-5">
-					<div class="col-md-2 align-self-center">
-                         {% if author.avatar %}
-                        <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="90"/>
-                        {% endif %} 
-					</div>
-					<div class="col-md-10">		
-                        <h5 class="font-weight-bold">Written by {{ author.name }} {% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span>{% endif %}</h5>
-						{{ author.bio }}					
-					</div>
-				</div>				
-                {% endif %}
+
+			<!-- Attribution -->
+
+			{% include author-footer.html author=page.author action="Written" %}
+
+			{% include author-footer.html author=page.illustrator action="Illustrated" %}
+
+			{% include author-footer.html author=page.photographer action="Photographed" %}
+
+			{% include author-footer.html author=page.designer action="Designed" %}
+
+			{% include author-footer.html author=page.developer action="Developed" %}
+
+			{% include author-footer.html author=page.editor action="Edited" %}
+
+			{% include author-footer.html author=page.contributor action="Contributed" %}
+
+			{% include author-footer.html author=page.translator action="Translated" %}
+
+			{% include author-footer.html author=page.reviewer action="Reviewed" %}
+
+			{% include author-footer.html author=page.supervisor action="Supervised" %}
+
+			{% include author-footer.html author=page.manager action="Managed" %}
+
+			{% include author-footer.html author=page.director action="Directed" %}
+
+			{% include author-footer.html author=page.producer action="Produced" %}
+
+			{% include author-footer.html author=page.executive_producer action="Executive Produced" %}
+
             
             <!-- Comments -->
             {% if page.comments != false %}
