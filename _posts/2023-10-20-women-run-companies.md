@@ -4,7 +4,7 @@ title:  "Why Aren’t More Women Running U.S. Companies?"
 author: sada
 categories:
   - local news
-image: assets/images/home.jpg
+image: assets/images/women_companies_title.png
 tags: 
   - featured
 ---
