@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Speed Cameras (temporary title)"
+title:  "How California Plans to Save Lives on the Roads"
 author: kaiden
 categories:
   - local news
