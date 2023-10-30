@@ -17,6 +17,7 @@ description: "A newspaper written by Tahoma students for Tahoma students"
     
     <!-- latest post -->
     {% assign latest_post = site.posts[0] %}
+    {% if latest_post %}
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{site.baseurl}}{{latest_post.url}}">
@@ -44,11 +45,13 @@ description: "A newspaper written by Tahoma students for Tahoma students"
     </div>
     </div>
     </div>
+    {% endif %}
     
     <div class="col-md-6">
         
         <!-- second latest post -->
-        {%- assign second_post = site.posts[1] -%}        
+        {%- assign second_post = site.posts[1] -%}
+        {%- if second_post -%}
         <div class="mb-3 d-flex align-items-center">                
                 {% if second_post.image %}
                 <div class="col-md-4">
@@ -73,9 +76,11 @@ description: "A newspaper written by Tahoma students for Tahoma students"
                     </small>
                 </div>
             </div>
+        {% endif %}
         
         <!-- third latest post -->
-        {%- assign third_post = site.posts[2] -%}        
+        {%- assign third_post = site.posts[2] -%}
+        {%- if third_post -%}
         <div class="mb-3 d-flex align-items-center">                
                 {% if third_post.image %}
                 <div class="col-md-4">
@@ -100,10 +105,12 @@ description: "A newspaper written by Tahoma students for Tahoma students"
                     </small>
                 </div>
             </div>
+        {% endif %}
         
         <!-- fourth latest post -->
-        {%- assign fourth_post = site.posts[3] -%}        
-        <div class="mb-3 d-flex align-items-center">                
+        {%- assign fourth_post = site.posts[3] -%}
+        {%- if fourth_post -%}
+        <div class="mb-3 d-flex align-items-center">
                 {% if fourth_post.image %}
                 <div class="col-md-4">
                 <a href="{{site.baseurl}}{{fourth_post.url}}">
@@ -127,7 +134,8 @@ description: "A newspaper written by Tahoma students for Tahoma students"
                     </small>
                 </div>
             </div>
-        
+        {% endif %}
+
     </div>
     
 </div>
