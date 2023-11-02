@@ -1,26 +1,6 @@
 ---
-title: "Jette"
-layout: default
-permalink: "/author-jette.html"
+layout: author
+title: Jette Sandstrom
+permalink: /author-jette.html
+_author: jette
 ---
-<div class="container">
-<div class="row justify-content-center">
-    <div class="col-md-8">        
-        <div class="row align-items-center mb-5">
-            <div class="col-md-9">
-                <h2 class="font-weight-bold">{{page.title}} {% if site.authors.jette.twitter %}<span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ site.authors.jette.twitter }}">Follow</a></span>{% endif %}</h2>
-                <p><a href="{{ site.authors.jette.site }}">{{ site.authors.jette.site }}</a></p>
-                <p class="excerpt">{{ site.authors.jette.bio }}</p>
-            </div>
-            <div class="col-md-3 text-right">
-                <img alt="{{ site.authors.jette.name }}" src="{{site.baseurl}}/{{ site.authors.jette.avatar }}" class="rounded-circle" height="100" width="100">
-            </div>
-        </div>
-        <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
-            {% assign posts = site.posts | where:"author","jette" %}
-            {% for post in posts %}
-            {% include main-loop-card.html %}
-            {% endfor %}
-    </div>
-</div>
-</div>

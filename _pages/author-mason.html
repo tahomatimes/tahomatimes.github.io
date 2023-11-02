@@ -1,26 +1,6 @@
 ---
-title: "Mason"
-layout: default
-permalink: "/author-mason.html"
+layout: author
+title: Mason Johnston
+permalink: /author-mason.html
+_author: mason
 ---
-<div class="container">
-<div class="row justify-content-center">
-    <div class="col-md-8">        
-        <div class="row align-items-center mb-5">
-            <div class="col-md-9">
-                <h2 class="font-weight-bold">{{page.title}} {% if site.authors.mason.twitter %}<span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ site.authors.mason.twitter }}">Follow</a></span>{% endif %}</h2>
-                <p><a href="{{ site.authors.mason.site }}">{{ site.authors.mason.site }}</a></p>
-                <p class="excerpt">{{ site.authors.mason.bio }}</p>
-            </div>
-            <div class="col-md-3 text-right">
-                <img alt="{{ site.authors.mason.name }}" src="{{site.baseurl}}/{{ site.authors.mason.avatar }}" class="rounded-circle" height="100" width="100">
-            </div>
-        </div>
-        <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
-            {% assign posts = site.posts | where:"author","mason" %}
-            {% for post in posts %}
-            {% include main-loop-card.html %}
-            {% endfor %}
-    </div>
-</div>
-</div>
