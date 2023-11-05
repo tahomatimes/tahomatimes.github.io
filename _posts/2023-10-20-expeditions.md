@@ -22,7 +22,8 @@ As of October 19th, most (77.9%) of students who responded to the survey were ha
 
 Interestingly, the number of students who got into their first choice experience was pretty similar to the number who reported that they were satisfied. About a quarter of the respondents didn’t get into their top choice, but the majority of people (76.1%) did. 
 
-Several respondents to the survey had feedback about the internship experience. One student wrote, “I wish the internships were offered for people under 16," and another responded, “It’s hard to find workplaces that are willing to hire a high school student for 7 irregular weeks. Also, I found it difficult to navigate the process of cold emailing a bunch of different companies.” If there is a main takeaway you should get from reading this article, it’s that finding internships is really tough! About a quarter of the people who said they were unhappy or unsure about their Expeditions placement talked about internships as the reason why, and even people who got their first choice mentioned the internship application process in their responses. 
+
+Several respondents to the survey had feedback about the internship experience. One student wrote, “I wish the internships were offered for people under 16," and another responded, “It’s hard to find workplaces that are willing to hire a high school student for 7 irregular weeks. Also, I found it difficult to navigate the process of cold emailing a bunch of different companies.” If there is a main takeaway you should get from reading this article, it’s that finding internships is really tough! About a quarter of the people who said they were unhappy or unsure about their Expeditions placement talked about internships as the reason why, and even people who got their first choice mentioned the internship application process in their responses.
 
 Lots of people had input about more courses they wanted to take, too. Here are some of their ideas: 
 
