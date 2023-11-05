@@ -22,9 +22,6 @@ _Perry’s final social media post, with the caption “Oh, so warm water swirli
 
 Perry went through an episode where he had a crippling addiction to drinking, almost dying from it. He went into a coma for two weeks, and after a long road to recovery, he helped others to recover from their addictions as well. Perry said he didn’t want to be remembered for his role in _Friends_, he instead wanted to be remembered for his road to overcoming his addiction.
 
-![An image of Matthew Perry’s autobiography](https://lh7-us.googleusercontent.com/tTLKHXbw1HLq58Fc2wAeF45jmLJnbPdaCxdE2_cMPeySUoCHC0Ve6LRWvcICSM4cR6EfxA5q5vU9t1AEwm6acPyOkfzX-RX4OhG9Ih-dRSEOLaa3ITU4WAP9-Fl6EHO7KAruovtCISUd5brjmYZ9dL0)
-_Matthew Perry’s autobiography_
-
 # Matthew Perry
 
 # 1969-2023
