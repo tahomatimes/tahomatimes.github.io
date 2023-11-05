@@ -10,8 +10,6 @@ tags:
   - sticky
 ---
 
-_Plume of smoke above Gaza - Unsplash - Mohammed Ibrahim_
-
 Last weekend, the Hamas government of Palestine launched a surprise attack on Israel, taking innocent people hostage and launching airstrikes on major Israeli cities. Hundreds of people were taken hostage, and are yet to be released.
 
 Benjamin Netanyahu, the prime minister of Israel, has declared war on Palestine, and plans a large retaliation. He states that this is only the beginning of the war and Israel will not tolerate any attacks against them.
@@ -22,6 +20,8 @@ This conflict has meant losses to both sides, and this conflict seems to be far 
 _Benjamin Netanyahu is planning retaliation against Palestine. (Times of Israel)_
 
 _Sources:_
+
+header image from Unsplash - Mohammed Ibrahim
 
 [_https://www.washingtonpost.com/world/interactive/2023/photos-israel-hamas-war/_](https://www.washingtonpost.com/world/interactive/2023/photos-israel-hamas-war/)
 
