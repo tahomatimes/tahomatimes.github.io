@@ -192,6 +192,20 @@ authors:
     bio: "Hi! I'm the head of marketing for the Tahoma Times. I will be advertising articles written by other students."
     email: sjohnson.ta@mysummitps.org
 
+  sahana:
+    name: Sahana Vimal
+    shortname: Sahana
+    avatar: assets/images/avatar_sahana.jpg
+    bio: "Hi I'm a sophmore, lead photographer and I run our instagram page @tahoma_journalism (:"
+    email: svimal.ta@mysummitps.org
+
+  meg:
+    name: Meg Mulcaster
+    shortname: Meg
+    avatar: assets/images/avatar_meg.jpg
+    bio: "Hi! I'm a 10th grade Journalist (and sometimes photographer!) here at Tahoma. I cover local Tahoma news, editorials, and world news."
+    email: mmulcaster.ta@mysummitps.org
+
   #    sal:
   #      name:           Sal
   #      site:           https://www.wowthemes.net
