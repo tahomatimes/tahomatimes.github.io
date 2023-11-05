@@ -18,7 +18,7 @@ _Friends_ fans and co-stars alike have been grieving his death. Maggie Wheeler, 
 Hours before he was found dead, Perry was reportedly playing pickleball near his house, but he quit playing because he was “fatigued.” He returned to his mansion while he sent his assistant to run some errands while he relaxed in his hot tub. When his assistant returned, she made the shocking and dreadful discovery that he had drowned in his hot tub.
 
 ![Perry’s final social media post, picturing him relaxing in his hot tub](https://lh7-us.googleusercontent.com/fffxGrIzaAjXyi_SphFGu7dJ4oMKIv0sfZgTTyB-DX9zH9LQwkh1fYitlOrUcEnUu1_6Z0wvmGERX1tgRNtLzjYjC6UHPUbm9VZWFqc8xTL9p9-w2Gb0E3fzSlSKJE8DXZnJ0-VERculO8df8MCFvhg)
-_Perry’s final social media post, with the caption “Oh, so warm water swirling around makes you feel good? I’m Mattman”_
+_Perry’s final social media post, with the caption “Oh, so warm water swirling around makes you feel good? I’m Mattman.”_
 
 Perry went through an episode where he had a crippling addiction to drinking, almost dying from it. He went into a coma for two weeks, and after a long road to recovery, he helped others to recover from their addictions as well. Perry said he didn’t want to be remembered for his role in _Friends_, he instead wanted to be remembered for his road to overcoming his addiction.
 
