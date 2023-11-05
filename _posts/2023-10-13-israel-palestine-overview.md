@@ -7,7 +7,7 @@ categories:
   - world news
 image: assets/images/header_gaza.jpg
 tags:
-  - sticky
+  - featured
 ---
 
 Last weekend, the Hamas government of Palestine launched a surprise attack on Israel, taking innocent people hostage and launching airstrikes on major Israeli cities. Hundreds of people were taken hostage, and are yet to be released.
