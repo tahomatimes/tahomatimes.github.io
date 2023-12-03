@@ -2,6 +2,7 @@
 layout: post
 title:  "Matthew Perry, Beloved TV Actor, Dead at 54"
 author: sean
+comments: false
 categories:
   - entertainment
 image: assets/images/header_matthew.jpg

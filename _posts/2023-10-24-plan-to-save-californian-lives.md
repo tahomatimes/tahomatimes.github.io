@@ -2,6 +2,7 @@
 layout: post
 title:  "How California Plans to Save Lives on the Roads"
 author: kaiden
+comments: false
 categories:
   - local news
 image: assets/images/speed_stat.png

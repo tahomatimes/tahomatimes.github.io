@@ -3,6 +3,7 @@ layout: post
 title:  "A Quick Breakdown of the War in Israel & Palestine"
 author: sean
 editor: medha
+comments: false
 categories:
   - world news
 image: assets/images/header_gaza.jpg

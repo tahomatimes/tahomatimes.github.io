@@ -2,6 +2,7 @@
 layout: post
 title:  "Exploring Expeditions"
 author: meg
+comments: false
 categories:
   - tahoma news
 image: assets/images/expeditions_header.png

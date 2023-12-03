@@ -3,6 +3,7 @@ layout: post
 title:  "Upcoming Events"
 author: madeline
 editor: medha
+comments: false
 categories:
   - tahoma news
 image: assets/images/upcoming_events.jpg

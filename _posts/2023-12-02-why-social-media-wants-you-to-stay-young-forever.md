@@ -3,6 +3,7 @@ layout: post
 title:  "Why Social Media Wants You to Stay Young Forever"
 author: laney
 editor: medha
+comments: false
 categories:
   - entertainment
 image: assets/images/social_media_header.png
