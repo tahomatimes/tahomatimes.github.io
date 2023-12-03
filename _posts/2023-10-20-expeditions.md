@@ -6,7 +6,6 @@ categories:
   - tahoma news
 image: assets/images/expeditions_header.png
 tags:
-  - sticky
   - featured
 ---
 
