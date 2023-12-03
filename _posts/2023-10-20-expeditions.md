@@ -7,6 +7,7 @@ categories:
 image: assets/images/expeditions_header.png
 tags:
   - featured
+  - sticky
 ---
 
 With the most loved (and hated) time of the year coming up, Expeditions are on everyone’s minds! In this article, I’ll reveal the results of a poll I conducted to see how many people were happy with their new Expedition assignments, and what else they think about them. 

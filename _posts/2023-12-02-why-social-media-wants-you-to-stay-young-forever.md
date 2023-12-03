@@ -8,7 +8,6 @@ categories:
 image: assets/images/social_media_header.png
 tags:
   - featured
-  - sticky
 ---
 With the rise of social media, we as a society have seen pressures to not age from every corner of the internet. It seems that there may be an underlying fear or cause for the obsession with looking young; with Botox and topical anti-aging serums becoming more accessible for the middle and lower classes, it is clear that this fear of aging is here to stay. 
 
