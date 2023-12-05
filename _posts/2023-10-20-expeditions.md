@@ -15,11 +15,11 @@ With the most loved (and hated) time of the year coming up, Expeditions are on e
 
 Cover Image: Expeditions showcase from a few years ago 
 
-![Forms response chart. Question title: Are you happy with the expedition you got?. Number of responses: 113 responses.](https://lh7-us.googleusercontent.com/PI8cKxyYY5DdTuhtjEd8FX7FMJQ-OsjcXDZoj05BBtPjKwAdRwNYDSlBUhgO045FokmCAsMXauNUxFjCcmDyhC-yR0yFBpGobjZxqtK-QpY7GBbVEbum6px1Ba8MyC81EvbvJHBy8MNyKlTYIyvh-4I)
+![Forms response chart. Question title: Are you happy with the expedition you got?. Number of responses: 113 responses.]({{ site.baseurl }}/assets/images/happy_with_expeditions_pie_chart.png)
 
 As of October 19th, most (77.9%) of students who responded to the survey were happy with the experience they got, and a few weren’t sure. The 7.1% of students who were unhappy with their Expedition assignment were mostly those who didn’t like any of the options, applied for a program with limited space, or changed their minds about what they picked on the survey. 
 
-![Forms response chart. Question title: Did you get your first choice of expeditions? . Number of responses: 113 responses.](https://lh7-us.googleusercontent.com/L_bVbE13-ccoghMAoVIlWO5DsXJO1_u2hQWe8egSFKtlSRSXr6C5TIgoLcaexVrQUntGyZ7B9aRET8G7d29CZWitsFsjNOSMD8bk4HV7D0SLNVwRM5OdSgZjeMVcTB8ASVjtJl-jg8U5sxLlsEhYO5w)
+![Forms response chart. Question title: Did you get your first choice of expeditions? . Number of responses: 113 responses.]({{ site.baseurl }}/assets/images/first_choice_expeditions_pie_chart.png)
 
 Interestingly, the number of students who got into their first choice experience was pretty similar to the number who reported that they were satisfied. About a quarter of the respondents didn’t get into their top choice, but the majority of people (76.1%) did. 
 
