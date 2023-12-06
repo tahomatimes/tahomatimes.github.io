@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unveiling the Climate Crisis: South Asia's Struggle with Intensifying Monsoons and Water Scarcity"
+title:  "The Climate Crisis: South Asia's Struggle with Intensifying Monsoons and Water Scarcity"
 author: anush
 editor: medha
 comments: false
