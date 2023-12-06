@@ -21,18 +21,18 @@ India is the most populated country in the world, Pakistan the fifth, and Bangla
 
 South Asia is one of the places most affected by climate change. It’s necessary to note how our actions affect people in other parts of the world so we can reduce harm to everyone.
 
-Sources:
+_Sources:_
 
-[https://education.nationalgeographic.org/resource/monsoon/](https://education.nationalgeographic.org/resource/monsoon/)
+_[https://education.nationalgeographic.org/resource/monsoon/](https://education.nationalgeographic.org/resource/monsoon/)_
 
-[https://www.theguardian.com/world/2015/dec/03/india-army-struggles-to-rescue-survivors-as-flood-death-toll-nears-270](https://www.theguardian.com/world/2015/dec/03/india-army-struggles-to-rescue-survivors-as-flood-death-toll-nears-270)
+_[https://www.theguardian.com/world/2015/dec/03/india-army-struggles-to-rescue-survivors-as-flood-death-toll-nears-270](https://www.theguardian.com/world/2015/dec/03/india-army-struggles-to-rescue-survivors-as-flood-death-toll-nears-270)_
 
-[https://www.aljazeera.com/news/2023/8/23/floods-force-evacuation-of-almost-100000-in-pakistan](https://www.aljazeera.com/news/2023/8/23/floods-force-evacuation-of-almost-100000-in-pakistan)
+_[https://www.aljazeera.com/news/2023/8/23/floods-force-evacuation-of-almost-100000-in-pakistan](https://www.aljazeera.com/news/2023/8/23/floods-force-evacuation-of-almost-100000-in-pakistan)_
 
-[https://www.thenewsminute.com//how-climate-change-is-altering-indian-monsoon/articlet238769](https://www.thenewsminute.com//how-climate-change-is-altering-indian-monsoon/articlet238769)
+_[https://www.thenewsminute.com//how-climate-change-is-altering-indian-monsoon/articlet238769](https://www.thenewsminute.com//how-climate-change-is-altering-indian-monsoon/articlet238769)_
 
-[https://www.leeds.ac.uk/news-environment/news/article/4991/himalayan-glaciers-melting-at-exceptional-rate](https://www.leeds.ac.uk/news-environment/news/article/4991/himalayan-glaciers-melting-at-exceptional-rate).
+_[https://www.leeds.ac.uk/news-environment/news/article/4991/himalayan-glaciers-melting-at-exceptional-rate](https://www.leeds.ac.uk/news-environment/news/article/4991/himalayan-glaciers-melting-at-exceptional-rate)_
 
-[https://www.aljazeera.com/news/2023/11/13/staggering-347-million-children-facing-water-scarcity-in-south-asia-un](https://www.aljazeera.com/news/2023/11/13/staggering-347-million-children-facing-water-scarcity-in-south-asia-un)
+_[https://www.aljazeera.com/news/2023/11/13/staggering-347-million-children-facing-water-scarcity-in-south-asia-un](https://www.aljazeera.com/news/2023/11/13/staggering-347-million-children-facing-water-scarcity-in-south-asia-un)_
 
-[https://www.aljazeera.com/news/2023/7/8/what-makes-south-asia-so-vulnerable-to-climate-change](https://www.aljazeera.com/news/2023/7/8/what-makes-south-asia-so-vulnerable-to-climate-change)
+_[https://www.aljazeera.com/news/2023/7/8/what-makes-south-asia-so-vulnerable-to-climate-change](https://www.aljazeera.com/news/2023/7/8/what-makes-south-asia-so-vulnerable-to-climate-change)_
