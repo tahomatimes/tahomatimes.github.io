@@ -22,7 +22,7 @@ _Benjamin Netanyahu is planning retaliation against Palestine. (Times of Israel)
 
 _Sources:_
 
-header image from Unsplash - Mohammed Ibrahim
+_header image from Unsplash - Mohammed Ibrahim_
 
 [_https://www.washingtonpost.com/world/interactive/2023/photos-israel-hamas-war/_](https://www.washingtonpost.com/world/interactive/2023/photos-israel-hamas-war/)
 
