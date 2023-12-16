@@ -43,7 +43,7 @@ But even though we have made much progress on this matter, there are still hundr
 
 [Bill Wilson Center](https://www.billwilsoncenter.org)
 
-[Homelessnes in California](https://shou.senate.ca.gov/sites/shou.senate.ca.gov/files/Homelessness%20in%20CA%202020%20Numbers.pdf)
+[Homelessness in California](https://shou.senate.ca.gov/sites/shou.senate.ca.gov/files/Homelessness%20in%20CA%202020%20Numbers.pdf)
 
 But most importantly... _vote_! If you have the ability to vote, make sure you do your research. Find out which politicians pledges to take steps to solve homelessness.
 
