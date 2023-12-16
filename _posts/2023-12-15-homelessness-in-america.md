@@ -31,7 +31,7 @@ Also, through the last 20 years, federal spending on Homeless Assistance had inc
 
 <br> 
 
-The table above shows the Increased spending on homeless assistance over the years.
+The table above shows the increased spending on homeless assistance over the years.
 
 During these 20 years, many individual places have begun trial-and-error programs to reduce homelessness. Some have failed, but others, such as the Housing First approach of New York City, have effectively lowered homelessness rates, and have been implemented across the country.
 
