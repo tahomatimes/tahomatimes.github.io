@@ -1,0 +1,29 @@
+/* Apply basic styling to the table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+/* Add some padding and styling to table cells */
+td, th {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+/* Add background color to alternate rows for better readability */
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* Style the table header */
+th {
+    background-color: #4CAF50; /* Green background color */
+    color: white; /* White text color */
+}
+
+/* Add hover effect to table rows */
+tr:hover {
+    background-color: #ddd;
+}
