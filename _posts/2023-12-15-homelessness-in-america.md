@@ -23,7 +23,13 @@ Since 2000, more and more people have become aware of the problem of homelessnes
 
 Also, through the last 20 years, federal spending on Homeless Assistance had increased over three times, from $1.1 billion in 2000 to $3.6 billion in 2023 according to fiscal reports.
 
-<table><tbody><tr><td>Year</td><td>Federal Spending on Homeless Assistance</td></tr><tr><td>2000</td><td>$1.129 billion</td></tr><tr><td>2013</td><td>$2.033 billion</td></tr><tr><td>2023</td><td>$3.633 billion</td></tr></tbody></table>
+| Year           | Federal Spending on Homeless Assistance |
+|----------------|-----------------------------------------|
+| 2000           | $1.129 billion                          |
+| 2013           | $2.033 billion                          |
+| 2023           | $3.633 billion                          |
+
+<br> 
 
 The table above shows the Increased spending on homeless assistance over the years.
 
