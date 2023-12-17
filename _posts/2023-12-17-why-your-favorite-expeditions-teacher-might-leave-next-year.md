@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Your Favorite Expeditions Teacher Might Leave Next Year"
-author: maddie
+author: madeline
 editor: medha
 comments: false
 categories:
