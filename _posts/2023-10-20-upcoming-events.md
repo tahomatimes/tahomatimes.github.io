@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Upcoming Events"
-author: madeline
+author: maddie
 editor: medha
 comments: false
 categories:
