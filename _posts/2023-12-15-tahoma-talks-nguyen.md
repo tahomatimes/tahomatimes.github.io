@@ -27,7 +27,7 @@ My good relationship with my mentors made me come back. When they were my mentor
 
 ### **How were expeditions different when you were a student at Tahoma?**
 
-There were more on-campus expeditions as people used online learning less than. I took Yoga and Coding on campus. Expeditions also gave you credit as a class back then; now, they just say if you took it or not. 
+There were more on-campus expeditions as people used online learning less then. I took Yoga and Coding on campus. Expeditions also gave you credit as a class back then; now, they just say if you took it or not. 
 
 ### **How could Tahoma change for the better?**
 
@@ -43,4 +43,4 @@ Learning to manage your time and prioritize your work. I think Tahoma prepares y
 
 ### **Conclusion**
 
-We can learn from Ms. Nguyen that Tahoma has helped her prepare for college and beyond by teaching her to prioritize her work, allowing her to learn time management, and helping her craft a good-looking college application. Ms. Nguyen valued her time as a student at Tahoma, which brought her back as a staff member. While Tahoma has changed over the past eleven years, Ms. Nugyen believes it has changed for the better.
+We can learn from Ms. Nguyen that Tahoma has helped her prepare for college and beyond by teaching her to prioritize her work, allowing her to learn time management, and helping her craft a good-looking college application. Ms. Nguyen valued her time as a student at Tahoma, which brought her back as a staff member. While Tahoma has changed over the past eleven years, Ms. Nguyen believes it has changed for the better.
