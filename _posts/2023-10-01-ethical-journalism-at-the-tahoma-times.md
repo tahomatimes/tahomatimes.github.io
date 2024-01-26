@@ -2,6 +2,7 @@
 layout: post
 title:  "Ethical Journalism at The Tahoma Times"
 author: medha
+illustrator: mason
 comments: false
 categories:
   - tahoma news
