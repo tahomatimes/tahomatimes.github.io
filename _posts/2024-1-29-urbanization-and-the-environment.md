@@ -2,6 +2,7 @@
 layout: post
 title:  "Urbanization and the Environment"
 author: maddie
+editor: medha
 comments: false
 categories:
   - local news
