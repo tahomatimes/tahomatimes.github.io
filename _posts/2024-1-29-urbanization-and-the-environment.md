@@ -43,6 +43,8 @@ PlantSnap is a plant identification app that helps you identify local flora and 
 
 **Sources**
 
+_[header image](https://unsplash.com/photos/city-skyline-under-orange-sunset-KG3-mitshL4) used under the Unsplash License_ 
+
 [_https://courses.lumenlearning.com/boundless-sociology/chapter/urbanization-and-the-development-of-cities/_](https://courses.lumenlearning.com/boundless-sociology/chapter/urbanization-and-the-development-of-cities/)
 
 [_https://www.youtube.com/watch?v=pUbHGI-kHsU&t=55s_](https://www.youtube.com/watch?v=pUbHGI-kHsU&t=55s)
