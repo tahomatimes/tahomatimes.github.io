@@ -1,9 +1,9 @@
 # Site
 name: 'Tahoma Times'
 title: Tahoma Times
-description: 'Tahoma newspaper'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+description: 'The Summit Tahoma Newspaper'
+logo: 'assets/images/tahoma_times_logo.png'
+favicon: 'assets/images/tahoma_times_logo.png'
 baseurl: ''
 disqus: 'demowebsite'
 email: 'mmehra.ta@mysummitps.org'
@@ -157,26 +157,26 @@ authors:
     bio: "I am a 10th grade marketer at Tahoma Times. I will advertise this club and our articles."
     email: jsandstrom.ta@mysummitps.org
 
-  alicia:
-    name: Alicia
-    shortname: Alicia
-    avatar: assets/images/avatar_ali.jpg
-    bio: "Hi! I'm a 10th grade Journalist at Tahoma. I enjoy interviews, writing, and researching about pieces."
-    email: aarnonileitedeabreu.ta@mysummitps.org
-
-  annabelle:
-    name: Annabelle Zubrod
-    shortname: Annabelle
-    avatar: assets/images/avatar_annabelle.webp
-    bio: "Hi i'm a 10th grade illustrator at Tahoma, I enjoy drawing."
-    email: azubrod.ta@mysummitps.org
-
-  magnus:
-    name: Magnus Oelsner
-    shortname: Magnus
-    avatar: assets/images/avatar_magnus.jpeg
-    bio: "Hi I’m Magnus"
-    email: moelsner.ta@mysummitps.org
+#  alicia:
+#    name: Alicia
+#    shortname: Alicia
+#    avatar: assets/images/avatar_ali.jpg
+#    bio: "Hi! I'm a 10th grade Journalist at Tahoma. I enjoy interviews, writing, and researching about pieces."
+#    email: aarnonileitedeabreu.ta@mysummitps.org
+#
+#  annabelle:
+#    name: Annabelle Zubrod
+#    shortname: Annabelle
+#    avatar: assets/images/avatar_annabelle.webp
+#    bio: "Hi i'm a 10th grade illustrator at Tahoma, I enjoy drawing."
+#    email: azubrod.ta@mysummitps.org
+#
+#  magnus:
+#    name: Magnus Oelsner
+#    shortname: Magnus
+#    avatar: assets/images/avatar_magnus.jpeg
+#    bio: "Hi I’m Magnus"
+#    email: moelsner.ta@mysummitps.org
 
   millen:
     name: Millen Kidane
