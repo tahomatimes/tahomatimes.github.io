@@ -3,7 +3,7 @@ name: 'Tahoma Times'
 title: Tahoma Times
 description: 'The Summit Tahoma Newspaper'
 logo: 'assets/images/tahoma_times_logo.jpg'
-#favicon: 'assets/images/tahoma_times_logo.jpg'
+favicon: 'favicon.ico'
 baseurl: ''
 disqus: 'demowebsite'
 email: 'mmehra.ta@mysummitps.org'
