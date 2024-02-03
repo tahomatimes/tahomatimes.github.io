@@ -2,8 +2,8 @@
 name: 'Tahoma Times'
 title: Tahoma Times
 description: 'The Summit Tahoma Newspaper'
-logo: 'assets/images/tahoma_times_logo.png'
-favicon: 'assets/images/tahoma_times_logo.png'
+logo: 'assets/images/tahoma_times_logo.jpg'
+#favicon: 'assets/images/tahoma_times_logo.jpg'
 baseurl: ''
 disqus: 'demowebsite'
 email: 'mmehra.ta@mysummitps.org'
@@ -171,12 +171,12 @@ authors:
 #    bio: "Hi i'm a 10th grade illustrator at Tahoma, I enjoy drawing."
 #    email: azubrod.ta@mysummitps.org
 #
-#  magnus:
-#    name: Magnus Oelsner
-#    shortname: Magnus
-#    avatar: assets/images/avatar_magnus.jpeg
-#    bio: "Hi I’m Magnus"
-#    email: moelsner.ta@mysummitps.org
+  magnus:
+    name: Magnus Oelsner
+    shortname: Magnus
+    avatar: assets/images/avatar_magnus.jpeg
+    bio: "Hi I’m Magnus"
+    email: moelsner.ta@mysummitps.org
 
   millen:
     name: Millen Kidane
