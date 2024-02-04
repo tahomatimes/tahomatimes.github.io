@@ -28,6 +28,7 @@ There is also Singlish in Singapore. For most of history, Malay has been the pri
 English is a language that is spoken worldwide and is used every day; however, it is important to remember why and its colonial origins. While there is no issue with speaking English, it’s still crucial to preserve local languages and make sure they don’t fade away. Language erasure is an effect of colonial occupation, and preventing that means getting rid of the effects of it. Some ways to preserve languages include learning lesser spoken languages, especially indigenous languages. Additionally, we can learn cultural languages and reconnect with our cultural heritage. 
 
 _Sources_
+
 _[header image](https://unsplash.com/photos/open-dictionary-U3Ptj3jafX8) used under the Unsplash License_
 
 [_https://worldpopulationreview.com/country-rankings/english-speaking-countries_](https://worldpopulationreview.com/country-rankings/english-speaking-countries)
