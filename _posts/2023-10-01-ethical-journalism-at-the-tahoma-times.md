@@ -6,7 +6,7 @@ illustrator: mason
 comments: false
 categories:
   - tahoma news
-image: assets/images/tahoma_times_banner.png
+image: assets/images/tahoma_times_logo.jpg
 tags:
   - featured
   - sticky
