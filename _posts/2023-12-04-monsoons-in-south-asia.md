@@ -8,7 +8,6 @@ categories:
   - world news
 image: assets/images/monsoon_header.avif
 tags:
-  - sticky
   - featured
 ---
 The summer monsoon of South Asia is a period with heavy rainfall between the months of May and August, sometimes extending into April and September. Air from the Southwest Indian Ocean goes towards South Asian countries and, in turn, causes rainfall. This season is crucial to South Asia as many plants won’t grow, and people would starve without it. 

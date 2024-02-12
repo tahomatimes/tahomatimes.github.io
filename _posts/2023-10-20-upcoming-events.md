@@ -7,8 +7,6 @@ comments: false
 categories:
   - tahoma news
 image: assets/images/upcoming_events.jpg
-tags:
-  - featured
 ---
 
 Many exciting events are coming up at Tahoma! Here is a quick overview of what to expect in these coming weeks.

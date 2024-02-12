@@ -7,6 +7,8 @@ comments: false
 categories:
   - tahoma news
 image: assets/images/feb_upcoming_events_header.avif
+tags:
+  - featured
 ---
 
 Hey Tahoma! We have a bit going on in the next two months, so let's recap…

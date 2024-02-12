@@ -6,8 +6,6 @@ comments: false
 categories:
   - world news
 image: assets/images/header_congress.avif
-tags:
-  - featured
 ---
 Georges Santos (R-NY) has been officially kicked out of congress after only a year in his position.
 

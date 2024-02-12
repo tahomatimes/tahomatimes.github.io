@@ -7,6 +7,9 @@ comments: false
 categories:
   - tahoma news
 image: assets/images/tahoma_times_banner.png
+tags:
+  - featured
+  - sticky
 ---
 At the Tahoma Times, our dedication is to provide high school journalism that is
 trustworthy, transparent, and empowers our student community. We hold ourselves

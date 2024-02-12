@@ -7,6 +7,8 @@ comments: false
 categories:
   - tahoma news
 image: assets/images/expeditions_teachers_header.png
+tags:
+  - featured
 ---
 Everyone knows that Summit Tahoma is vastly different from its public school counterparts. You're definitely not going to find any public schools out there with mentor groups or Expeditions. Some of these features are only available because Tahoma is a charter school, which in the past has provided a bit of leeway in areas that public schools are more strict on (like the fact that we don’t have a mandatory P.E. class). 
 

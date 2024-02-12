@@ -7,6 +7,8 @@ comments: false
 categories:
   - world news
 image: assets/images/english_conquered_header.png
+tags:
+  - featured
 ---
 
 English, the lingua franca of the world, is spoken by 1.5 billion people worldwide, making it the world’s most spoken language. 67 countries worldwide have it as an official language alongside languages native to the area. The language allows people around the world to communicate with each other, even people from places as different as Belize and Malaysia. While the language benefits many, it’s important to remember its legacy and history.
