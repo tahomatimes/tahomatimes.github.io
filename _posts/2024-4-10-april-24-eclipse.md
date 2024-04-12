@@ -11,11 +11,11 @@ tags:
   - featured
 ---
 
-This past Sunday, a rare total solar eclipse occurred over the Central part of the US and other parts of North America.
+This past Monday, a rare total solar eclipse occurred over the Central part of the US and other parts of North America.
 
 ![](https://lh7-us.googleusercontent.com/CZf-XMedAB1h1VQHeXqx1fxLKjd_fVJ2tq7_iTaqgd5A3nXNTC2vXuwcNd0rRS8HihoIXznfFnJ8QUZYhRb9bHBRDc3RAx5vDMEp6GMFZtSh_qjYTVyiN7PotZEz3LEIfJuWe1bEdia_bXzbUhiIvAs)
 
-_Sunday’s eclipse (WIRED)_
+_Monday’s eclipse (WIRED)_
 
 The history of the solar eclipse in general is intriguing, appearing in many elements of pop culture, from the opening scene in _2001: A Space Odyssey_ to many songs, including Bonnie Tyler’s smash hit _Total Eclipse of the Heart_.
 
@@ -39,9 +39,9 @@ The FBI and the Department of Homeland Security were on the lookout; they issued
 
 ![](https://lh7-us.googleusercontent.com/imvSWeYR531N2qJJQtfMcsnxxMz7zVw8NYEMuzk9jISNCgO7kXXBttlQk-yqv055Gnd1UpaqGrV_svhGol5E0Hy4l8EzabPkh8pUgjIqH4_yNHSYpmeW1AIyi6dSD7y1P25gDyueVX7nF4yUm6Xyoxo)
 
-_The line in which the eclipse traveled Sunday (AccuWeather)_
+_The line in which the eclipse traveled (AccuWeather)_
 
-In the end, 99% of all Americans witnessed at least a partial eclipse, with folks in the Bay Area witnessing about 35% totality at precisely 11:13 AM Sunday morning.
+In the end, 99% of all Americans witnessed at least a partial eclipse, with folks in the Bay Area witnessing about 35% totality at precisely 11:13 AM Monday morning.
 
 ![](https://lh7-us.googleusercontent.com/cauVKLtdcCJskVFfRh1OCxCwBRZ2GI0FTf1oJ3nj8kNS00NyMcNIoEi80f8qCwJKBCqUvsaz52NvRpL9kkOYk6r1ou-Abj1dKXJ-l13F-54g6bU2KPYm5j1mVzR5un437ur04qruETooO0o0pyrShrk)
 
