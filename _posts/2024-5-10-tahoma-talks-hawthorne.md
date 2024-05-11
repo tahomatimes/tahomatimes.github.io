@@ -3,7 +3,6 @@ layout: post
 title:  "Tahoma Talks: Discovering the world of IEPs and 504s"
 author: anush
 editor: medha
-photographer: medha
 comments: false
 categories:
   - tahoma news
