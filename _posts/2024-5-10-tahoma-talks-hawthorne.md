@@ -11,7 +11,7 @@ tags:
   - featured
 ---
 
-April is Autism Awareness Month, so I wanted to write something about the role that IEP teachers play in supporting and helping disabled students, since I also have an IEP. I had a chance to sit down with one of the Learning Center teachers, Ms. Niya Hawthorne, and get her thoughts on being an IEP teacher at Summit Tahoma. Ms. Hawthorne has been an education specialist and teacher for 8 years and has spent 6 of those years at Summit Tahoma. 
+April is Autism Awareness Month, so I wanted to write something about the role that IEP teachers play in supporting and helping disabled students, since I have had an IEP/504. I had a chance to sit down with one of the Learning Center teachers, Ms. Niya Hawthorne, and get her thoughts on being an IEP teacher at Summit Tahoma. Ms. Hawthorne has been an education specialist and teacher for 8 years and has spent 6 of those years at Summit Tahoma. 
 
 ## Question 1: What made you decide to be an IEP teacher? 
 
