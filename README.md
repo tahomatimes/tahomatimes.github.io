@@ -42,3 +42,10 @@ tags
       ```
 - fix anything wrong with it
 - follow [from md steps](#from-md)
+
+## To deploy to staging
+
+* Continue to commit to local branch (e.g. `master`)
+* Checkout `staging` branch and rebase onto `master`
+* Push `staging` branch to `staging` remote
+* Checkout `master` branch again for continued development
