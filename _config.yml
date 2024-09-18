@@ -37,14 +37,6 @@ authors:
           news, such as politics, law, and local Tahoma news."
     email: sdolan.ta@mysummitps.org
 
-  kaiden:
-    name: Kaiden Hickson
-    shortname: Kaiden
-    avatar: assets/images/avatar_kaiden.jpg
-    bio: "I am a photographer and journalist in 10th grade at Summit Tahoma. I will cover topics about nature, 
-          non-national politics, and language & culture."
-    email: khickson.ta@mysummitps.org
-
   laney:
     name: Laney McBride
     shortname: Laney
@@ -59,76 +51,12 @@ authors:
     bio: "Hello! I am an illustrator for the journalism club at Tahoma. I enjoy drawing topics about special school events, students, and humorous things. "
     email: kvantrees.ta@mysummitps.org
 
-  mason:
-    name: Mason Johnston
-    shortname: Mason
-    avatar: assets/images/avatar_mason.jpeg
-    bio: "I’m in 10th grade, and I love to illustrate. I want to bring life to the Tahoma news with little comics and drawings."
-    email: wjohnston.de@mysummitps.org
-
-
-#  anna:
-#    name: Anna Fitzgerald
-#    shortname: Anna
-#    avatar: assets/images/avatar_anna.jpeg
-#    bio: "Hello! I’m a 10th grader Journalist and Illustrator at Tahoma. I enjoy drawing and writing small comic strips and local Tahoma news."
-#    email: afitzgerald.de@mysummitps.org
-
-#  autumn:
-#    name: Autumn Oliver
-#    shortname: Autumn
-#    avatar: assets/images/avatar_autumn.jpg
-#    bio: "Hi! I'm a 10th grade Journalist and Photographer at Tahoma. I enjoy covering pieces on climate change, politics, and local Tahoma news."
-#    email: aoliver.ta@mysummitps.org
-
-#  t:
-#    name: T Kim
-#    shortname: T
-#    avatar: assets/images/avatar_t.jpeg
-#    bio: "I’m interested in video journalism and taking pictures for events and helping the writers with they they need help with."
-#    email: tkim.ta@mysummitps.org
-
-  baja:
-    name: Baja Allen
-    shortname: Baja
-    avatar: assets/images/avatar_baja.jpg
-    bio: "My name is Baja Allen and I am a journalist. I will be covering politics and write op eds about current political topics and issues facing us both nationally and locally. I will also write about movies or tv shows when there is one that is better than the rookie."
-    email: ballen.ta@mysummitps.org
-
-#  addie:
-#    name: Addie Allen
-#    shortname: Addie
-#    avatar: assets/images/avatar_addie.jpg
-#    bio: "Hi! i'm Addie, a 10th grade journalist at Tahoma. I enjoy covering pieces on my interests."
-#    email: aallen.ta@mysummitps.org
-
-  bruhns:
-    name: Bruhns Sada
-    shortname: Bruhns
-    avatar: assets/images/avatar_bruhns.jpg
-    bio: "Good day to you I am Bruhns Sada and I am a 10 grade student. I write about politics, and local Tahoma news."
-    email: sbruhns.ta@mysummitps.org
-
-#  simon:
-#    name: Simon Lee
-#    shortname: Simon
-#    avatar: assets/images/avatar_simon.jpeg
-#    bio: "I'm a 10th grader illustartor at tahoma. I like to draw comics and write about sports."
-#    email: slee.de@mysummitps.org
-
   anush:
     name: Anush Narasimhan
     shortname: Anush
     avatar: assets/images/avatar_anush.jpg
     bio: "Hi, I am an 11th-grade journalist at Tahoma. I am Kannadiga Tamilian and passionate about covering pieces on social issues, Tahoma news, South Asia, global political issues, disability, and other issues I care about."
     email: anarasimhan.de@mysummitps.org
-
-  ashley:
-    name: Ashley M. L.
-    shortname: Ashley
-    avatar: assets/images/avatar_ashley.jpg
-    bio: "Hi! I'm in 11th grade photographer and marketer at Tahoma. I enjoy covering pieces of school events, nature, fashion and food."
-    email: amozoleon.ta@mysummitps.org
 
   maddie:
     name: Maddie Flowers
@@ -172,12 +100,87 @@ authors:
     bio: "Hi I'm a sophmore, lead photographer and I run our instagram page @tahoma_journalism (:"
     email: svimal.ta@mysummitps.org
 
+#Past Contributors
+
+  kaiden:
+    name: Kaiden Hickson
+    shortname: Kaiden
+    avatar: assets/images/avatar_kaiden.jpg
+    bio: "[2023-24 Contributor] I am a photographer and journalist in 10th grade at Summit Tahoma. I will cover topics about nature, 
+          non-national politics, and language & culture."
+    email: khickson.ta@mysummitps.org
+
   meg:
     name: Meg Mulcaster
     shortname: Meg
     avatar: assets/images/avatar_meg.jpg
-    bio: "Hi! I'm a 10th grade Journalist (and sometimes photographer!) here at Tahoma. I cover local Tahoma news, editorials, and world news."
+    bio: "[2023-24 Contributor] Hi! I'm a 10th grade Journalist (and sometimes photographer!) here at Tahoma. I cover local Tahoma news, editorials, and world news."
     email: mmulcaster.ta@mysummitps.org
+
+  ashley:
+    name: Ashley M. L.
+    shortname: Ashley
+    avatar: assets/images/avatar_ashley.jpg
+    bio: "[2023-24 Contributor] Hi! I'm in 11th grade photographer and marketer at Tahoma. I enjoy covering pieces of school events, nature, fashion and food."
+    email: amozoleon.ta@mysummitps.org
+
+  mason:
+    name: Mason Johnston
+    shortname: Mason
+    avatar: assets/images/avatar_mason.jpeg
+    bio: "[2023-24 Contributor] I’m in 10th grade, and I love to illustrate. I want to bring life to the Tahoma news with little comics and drawings."
+    email: wjohnston.de@mysummitps.org
+
+  baja:
+    name: Baja Allen
+    shortname: Baja
+    avatar: assets/images/avatar_baja.jpg
+    bio: "[2023-24 Contributor] My name is Baja Allen and I am a journalist. I will be covering politics and write op eds about current political topics and issues facing us both nationally and locally. I will also write about movies or tv shows when there is one that is better than the rookie."
+    email: ballen.ta@mysummitps.org
+
+  bruhns:
+    name: Bruhns Sada
+    shortname: Bruhns
+    avatar: assets/images/avatar_bruhns.jpg
+    bio: "[2023-24 Contributor] Good day to you I am Bruhns Sada and I am a 10 grade student. I write about politics, and local Tahoma news."
+    email: sbruhns.ta@mysummitps.org
+
+
+
+  #  anna:
+  #    name: Anna Fitzgerald
+  #    shortname: Anna
+  #    avatar: assets/images/avatar_anna.jpeg
+  #    bio: "Hello! I’m a 10th grader Journalist and Illustrator at Tahoma. I enjoy drawing and writing small comic strips and local Tahoma news."
+  #    email: afitzgerald.de@mysummitps.org
+
+  #  autumn:
+  #    name: Autumn Oliver
+  #    shortname: Autumn
+  #    avatar: assets/images/avatar_autumn.jpg
+  #    bio: "Hi! I'm a 10th grade Journalist and Photographer at Tahoma. I enjoy covering pieces on climate change, politics, and local Tahoma news."
+  #    email: aoliver.ta@mysummitps.org
+
+  #  t:
+  #    name: T Kim
+  #    shortname: T
+  #    avatar: assets/images/avatar_t.jpeg
+  #    bio: "I’m interested in video journalism and taking pictures for events and helping the writers with they they need help with."
+  #    email: tkim.ta@mysummitps.org
+
+  #  addie:
+  #    name: Addie Allen
+  #    shortname: Addie
+  #    avatar: assets/images/avatar_addie.jpg
+  #    bio: "Hi! i'm Addie, a 10th grade journalist at Tahoma. I enjoy covering pieces on my interests."
+  #    email: aallen.ta@mysummitps.org
+
+  #  simon:
+  #    name: Simon Lee
+  #    shortname: Simon
+  #    avatar: assets/images/avatar_simon.jpeg
+  #    bio: "I'm a 10th grader illustartor at tahoma. I like to draw comics and write about sports."
+  #    email: slee.de@mysummitps.org
 
   # takuma:
   #    name: Takuma Nakagawa
