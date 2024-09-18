@@ -45,13 +45,6 @@ authors:
           non-national politics, and language & culture."
     email: khickson.ta@mysummitps.org
 
-  oskar:
-    name: Oskar Brady
-    shortname: Oskar
-    avatar: assets/images/avatar_oskar.jpeg
-    bio: "I take pictures and write words; mostly about culture and local events."
-    email: obrady.ta@mysummitps.org
-
   laney:
     name: Laney McBride
     shortname: Laney
@@ -73,33 +66,27 @@ authors:
     bio: "I’m in 10th grade, and I love to illustrate. I want to bring life to the Tahoma news with little comics and drawings."
     email: wjohnston.de@mysummitps.org
 
-  takuma:
-    name: Takuma Nakagawa
-    shortname: Takuma
-    avatar: assets/images/avatar_takuma.png
-    bio: "Hello; I am a 10th grader at Tahoma, joining as an illustrator and a photographer! My main skill would be logo/title designing but I'm also interested in taking and collecting photos for other topics as well, especially nature and wildlife around the school."
-    email: tnakagawa.de@mysummitps.org
 
-  anna:
-    name: Anna Fitzgerald
-    shortname: Anna
-    avatar: assets/images/avatar_anna.jpeg
-    bio: "Hello! I’m a 10th grader Journalist and Illustrator at Tahoma. I enjoy drawing and writing small comic strips and local Tahoma news."
-    email: afitzgerald.de@mysummitps.org
+#  anna:
+#    name: Anna Fitzgerald
+#    shortname: Anna
+#    avatar: assets/images/avatar_anna.jpeg
+#    bio: "Hello! I’m a 10th grader Journalist and Illustrator at Tahoma. I enjoy drawing and writing small comic strips and local Tahoma news."
+#    email: afitzgerald.de@mysummitps.org
 
-  autumn:
-    name: Autumn Oliver
-    shortname: Autumn
-    avatar: assets/images/avatar_autumn.jpg
-    bio: "Hi! I'm a 10th grade Journalist and Photographer at Tahoma. I enjoy covering pieces on climate change, politics, and local Tahoma news."
-    email: aoliver.ta@mysummitps.org
+#  autumn:
+#    name: Autumn Oliver
+#    shortname: Autumn
+#    avatar: assets/images/avatar_autumn.jpg
+#    bio: "Hi! I'm a 10th grade Journalist and Photographer at Tahoma. I enjoy covering pieces on climate change, politics, and local Tahoma news."
+#    email: aoliver.ta@mysummitps.org
 
-  t:
-    name: T Kim
-    shortname: T
-    avatar: assets/images/avatar_t.jpeg
-    bio: "I’m interested in video journalism and taking pictures for events and helping the writers with they they need help with."
-    email: tkim.ta@mysummitps.org
+#  t:
+#    name: T Kim
+#    shortname: T
+#    avatar: assets/images/avatar_t.jpeg
+#    bio: "I’m interested in video journalism and taking pictures for events and helping the writers with they they need help with."
+#    email: tkim.ta@mysummitps.org
 
   baja:
     name: Baja Allen
@@ -108,12 +95,12 @@ authors:
     bio: "My name is Baja Allen and I am a journalist. I will be covering politics and write op eds about current political topics and issues facing us both nationally and locally. I will also write about movies or tv shows when there is one that is better than the rookie."
     email: ballen.ta@mysummitps.org
 
-  addie:
-    name: Addie Allen
-    shortname: Addie
-    avatar: assets/images/avatar_addie.jpg
-    bio: "Hi! i'm Addie, a 10th grade journalist at Tahoma. I enjoy covering pieces on my interests."
-    email: aallen.ta@mysummitps.org
+#  addie:
+#    name: Addie Allen
+#    shortname: Addie
+#    avatar: assets/images/avatar_addie.jpg
+#    bio: "Hi! i'm Addie, a 10th grade journalist at Tahoma. I enjoy covering pieces on my interests."
+#    email: aallen.ta@mysummitps.org
 
   bruhns:
     name: Bruhns Sada
@@ -122,12 +109,12 @@ authors:
     bio: "Good day to you I am Bruhns Sada and I am a 10 grade student. I write about politics, and local Tahoma news."
     email: sbruhns.ta@mysummitps.org
 
-  simon:
-    name: Simon Lee
-    shortname: Simon
-    avatar: assets/images/avatar_simon.jpeg
-    bio: "I'm a 10th grader illustartor at tahoma. I like to draw comics and write about sports."
-    email: slee.de@mysummitps.org
+#  simon:
+#    name: Simon Lee
+#    shortname: Simon
+#    avatar: assets/images/avatar_simon.jpeg
+#    bio: "I'm a 10th grader illustartor at tahoma. I like to draw comics and write about sports."
+#    email: slee.de@mysummitps.org
 
   anush:
     name: Anush Narasimhan
@@ -164,27 +151,6 @@ authors:
     bio: "Hi, I'm Timothy, a guest editor for the Tahoma Times."
     email: tdao.ta@mysummitps.org
 
-#  alicia:
-#    name: Alicia
-#    shortname: Alicia
-#    avatar: assets/images/avatar_ali.jpg
-#    bio: "Hi! I'm a 10th grade Journalist at Tahoma. I enjoy interviews, writing, and researching about pieces."
-#    email: aarnonileitedeabreu.ta@mysummitps.org
-#
-#  annabelle:
-#    name: Annabelle Zubrod
-#    shortname: Annabelle
-#    avatar: assets/images/avatar_annabelle.webp
-#    bio: "Hi i'm a 10th grade illustrator at Tahoma, I enjoy drawing."
-#    email: azubrod.ta@mysummitps.org
-#
-  magnus:
-    name: Magnus Oelsner
-    shortname: Magnus
-    avatar: assets/images/avatar_magnus.jpeg
-    bio: "Hi I’m Magnus"
-    email: moelsner.ta@mysummitps.org
-
   millen:
     name: Millen Kidane
     shortname: Millen
@@ -212,6 +178,43 @@ authors:
     avatar: assets/images/avatar_meg.jpg
     bio: "Hi! I'm a 10th grade Journalist (and sometimes photographer!) here at Tahoma. I cover local Tahoma news, editorials, and world news."
     email: mmulcaster.ta@mysummitps.org
+
+  # takuma:
+  #    name: Takuma Nakagawa
+  #    shortname: Takuma
+  #    avatar: assets/images/avatar_takuma.png
+  #    bio: "Hello; I am a 10th grader at Tahoma, joining as an illustrator and a photographer! My main skill would be logo/title designing but I'm also interested in taking and collecting photos for other topics as well, especially nature and wildlife around the school."
+  #    email: tnakagawa.de@mysummitps.org
+
+#  alicia:
+#    name: Alicia
+#    shortname: Alicia
+#    avatar: assets/images/avatar_ali.jpg
+#    bio: "Hi! I'm a 10th grade Journalist at Tahoma. I enjoy interviews, writing, and researching about pieces."
+#    email: aarnonileitedeabreu.ta@mysummitps.org
+#
+#  annabelle:
+#    name: Annabelle Zubrod
+#    shortname: Annabelle
+#    avatar: assets/images/avatar_annabelle.webp
+#    bio: "Hi i'm a 10th grade illustrator at Tahoma, I enjoy drawing."
+#    email: azubrod.ta@mysummitps.org
+#
+#    magnus:
+#      name: Magnus Oelsner
+#      shortname: Magnus
+#      avatar: assets/images/avatar_magnus.jpeg
+#      bio: "Hi I’m Magnus"
+#      email: moelsner.ta@mysummitps.org
+
+  #  oskar:
+  #    name: Oskar Brady
+  #    shortname: Oskar
+  #    avatar: assets/images/avatar_oskar.jpeg
+  #    bio: "I take pictures and write words; mostly about culture and local events."
+  #    email: obrady.ta@mysummitps.org
+
+
 
   #    sal:
   #      name:           Sal
