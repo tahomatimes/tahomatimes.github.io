@@ -33,16 +33,15 @@ authors:
     name: Sean Dolan
     shortname: Sean
     avatar: assets/images/avatar_sean.jpg
-    bio: "My name is Sean, and I am a High School Junior interested at the Tahoma Times. I am interested in real world 
-          news, such as politics, law, and local Tahoma news."
+    bio: "I am Sean, and this is my second year covering news at the Tahoma Times. I enjoy covering stories surrounding this school or other important stuff in this world."
     email: sdolan.ta@mysummitps.org
 
-  laney:
-    name: Laney McBride
-    shortname: Laney
-    avatar: assets/images/avatar_laney.jpeg
-    bio: "Hi! I am Laney McBride, a 9th grade Journalist and Photographer at Tahoma. I enjoy covering pieces on climate change, politics, and local Tahoma news."
-    email: lmcbride.ta@mysummitps.org
+  anush:
+    name: Anush Narasimhan
+    shortname: Anush
+    avatar: assets/images/avatar_anush.jpg
+    bio: "Hi! I'm Anush Narasimhan, a 12th grade Journalist at Tahoma. I am Kannadiga Tamilian and passionate about covering social issues, Tahoma news, South Asia, and political and social issues."
+    email: anarasimhan.de@mysummitps.org
 
   kayleigh:
     name: Kayleigh L. Vantrees
@@ -51,18 +50,11 @@ authors:
     bio: "Hello! I am an illustrator for the journalism club at Tahoma. I enjoy drawing topics about special school events, students, and humorous things. "
     email: kvantrees.ta@mysummitps.org
 
-  anush:
-    name: Anush Narasimhan
-    shortname: Anush
-    avatar: assets/images/avatar_anush.jpg
-    bio: "Hi, I am an 11th-grade journalist at Tahoma. I am Kannadiga Tamilian and passionate about covering pieces on social issues, Tahoma news, South Asia, global political issues, disability, and other issues I care about."
-    email: anarasimhan.de@mysummitps.org
-
   maddie:
     name: Maddie Flowers
     shortname: Maddie
     avatar: assets/images/avatar_maddie.jpg
-    bio: "Hi, I'm a 9th grade journalist (and photographer if that doesnt work out) at Tahoma. I enjoy covering local Tahoma news, sports, and anything really."
+    bio: "Hey, I’m a sophomore journalist at Tahoma. I enjoy writing about current events and Tahoma news."
     email: mflowers.de@mysummitps.org
 
   jette:
@@ -83,24 +75,98 @@ authors:
     name: Millen Kidane
     shortname: Millen
     avatar: assets/images/avatar_millen.png
-    bio: "Hi, my name is Millen Kidane. I am a 10th grade marketer at Tahoma. I will help spread the word about our stories."
+    bio: "Hi, my name is Millen Kidane. I am an 11th grade marketer at Tahoma. I will help spread the word about our stories."
     email: mkidane.ta@mysummitps.org
 
   sarah:
     name: Sarah Johnson
     shortname: Sarah
     avatar: assets/images/avatar_sarah.jpg
-    bio: "Hi! I'm the head of marketing for the Tahoma Times. I will be advertising articles written by other students."
+    bio: "Hi! I'm a junior and the head of marketing for the Tahoma Times. I will be advertising articles written by other students."
     email: sjohnson.ta@mysummitps.org
 
   sahana:
     name: Sahana Vimal
     shortname: Sahana
     avatar: assets/images/avatar_sahana.jpg
-    bio: "Hi I'm a sophmore, lead photographer and I run our instagram page @tahoma_journalism (:"
+    bio: "Hi I'm a junior, lead photographer and I run our instagram page @tahoma_journalism (:"
     email: svimal.ta@mysummitps.org
 
-#Past Contributors
+  arya:
+    name: Arya Lurie
+    shortname: Arya
+    avatar: assets/images/avatar_arya.png
+    bio: "Hii! I'm a 9th grader on the marketing team at Tahoma. I help the marketing director."
+
+  kiyo:
+    name: Kiyo Ishida
+    shortname: Kiyo
+    avatar: assets/images/avatar_kiyo.jpg
+    bio: "Salutations! I'n a 9th grade writer and illustrator at Tahoma! I enjoy writing about upcoming events, hilarious but interesting questions or surveys and Tahoma news!"
+
+  nolan:
+    name: Nolan Ku
+    shortname: Nolan
+    avatar: assets/images/avatar_nolan.jpeg
+    bio: "I’m a Junior and writer at Summit Tahoma. I love to cover topics in the tech space and covering the latest advancements in that field."
+
+  julia:
+    name: Julia Somlo
+    shortname: Julia
+    avatar: assets/images/avatar_julia.jpg
+    bio: "Hello! I'm a 9th Grade Freshman Journalist at Tahoma. I enjoy covering pieces on technology. I want to share the information that I have found and learned in the past and in the future about robotics (specifically VRC), science (especially biosciences & other health topics), and other useful technology tutorials. I may also write articles about helpful books related to technology that I read!"
+
+  george:
+    name: George Harper
+    shortname: George
+    avatar: assets/images/avatar_george.png
+    bio: "Howdy! I'm an 11th grade artist and writer at Summit Tahoma. I primarily cover folklore and weird science facts, which I hope will help brighten people's days and teach them a little something new."
+
+  rachel:
+    name: Rachel Ignatovsky
+    shortname: Rachel
+    avatar: assets/images/avatar_rachel.jpg
+    bio: "Hi! I am an 11th grader and I enjoy writing statistical essays and sharing my opinions on different types of topics such as video games, criminology, and celebrity news."
+
+  alyson:
+    name: Alyson Ruiz
+    shortname: Alyson
+    avatar: assets/images/avatar_alyson.png
+    bio: "Hello I'm a 9th grade Journalist and Photographer. And I want to cover climate change "
+
+  miriam:
+    name: Miriam Hunter
+    shortname: Miriam
+    avatar: assets/images/avatar_miriam.jpeg
+    bio: "I am a beginner journalist and 11th grader at Tahoma. I enjoy discussing current politics, environmental causes, and school events."
+
+  jett:
+    name: Jett Da Rocha
+    shortname: Jett
+    avatar: assets/images/avatar_jett.png
+    bio: "Hi. I'm a 9th grade Journalist at Tahoma. I enjoy covering personal stories about other people and what their life was like."
+
+  georgios:
+    name: Georgios Kakouros
+    shortname: Georgios
+    avatar: assets/images/avatar_georgios.jpg
+    bio: "Hello, my name is Georgios Kakouros and I am the wielder of the camera! (Photographer). I enjoy taking photos of almost anything imaginable!"
+
+  addy:
+    name: Addy Carpenter
+    shortname: Addy
+    avatar: assets/images/avatar_addy.jpg
+    bio: "HI!  I am an 11th grader, I like making recipes of pasta, politics, and Taylor Swift. "
+
+
+
+  #Past Contributors
+  laney:
+    name: Laney McBride
+    shortname: Laney
+    avatar: assets/images/avatar_laney.jpeg
+    bio: "Hi! I am Laney McBride, a 9th grade Journalist and Photographer at Tahoma. I enjoy covering pieces on climate change, politics, and local Tahoma news."
+    email: lmcbride.ta@mysummitps.org
 
   kaiden:
     name: Kaiden Hickson
