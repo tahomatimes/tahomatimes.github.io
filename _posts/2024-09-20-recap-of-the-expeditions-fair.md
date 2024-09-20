@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Recap of the Expeditions Fair
+title:  "Recap of the Expeditions Fair"
 author: sean
 photographer: georgios
 comments: false
