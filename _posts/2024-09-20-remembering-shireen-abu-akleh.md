@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Journalism is not a Crime - Remembering Shireen Abu Akleh"
+title:  "Journalism Is Not a Crime - Remembering Shireen Abu Akleh"
 author: anush
 editor: medha
 comments: false
