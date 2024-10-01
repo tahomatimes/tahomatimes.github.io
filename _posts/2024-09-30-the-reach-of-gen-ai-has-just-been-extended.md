@@ -18,8 +18,10 @@ However, not all investments to companies nor partnerships appreciated immensely
 
 However, right now ChatGPT is still widely used and will most likely be used by us to change the world for the better. From training cancer detection software in hospitals to teaching students math in the classroom tool Khanmigo, multiple variations are out there and will be used by all walks of life to improve life for everyone.
 
-Sources:
+_Sources:_
 
-[https://www.cnbc.com/2024/06/07/after-chatgpt-and-the-rise-of-chatbots-investors-pour-into-ai-agents.html](https://www.cnbc.com/2024/06/07/after-chatgpt-and-the-rise-of-chatbots-investors-pour-into-ai-agents.html)
+_[https://www.cnbc.com/2024/06/07/after-chatgpt-and-the-rise-of-chatbots-investors-pour-into-ai-agents.html](https://www.cnbc.com/2024/06/07/after-chatgpt-and-the-rise-of-chatbots-investors-pour-into-ai-agents.html)_
 
-[https://www.cnn.com/2024/08/02/tech/wall-street-asks-big-tech-will-ai-ever-make-money/index.html](https://www.cnn.com/2024/08/02/tech/wall-street-asks-big-tech-will-ai-ever-make-money/index.html)
+_[https://www.cnn.com/2024/08/02/tech/wall-street-asks-big-tech-will-ai-ever-make-money/index.html](https://www.cnn.com/2024/08/02/tech/wall-street-asks-big-tech-will-ai-ever-make-money/index.html)_
+
+_header image used under the Unsplash License_
