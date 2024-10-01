@@ -8,8 +8,6 @@ comments: false
 categories:
   - tahoma news
 image: assets/images/nguyen_header.jpg
-tags:
-  - featured
 ---
 Summit Tahoma opened its doors in 2011 to bring a new medium of learning with the Summit curriculum to South San Jose. Ms. Nguyen, a college student and employee at Summit Tahoma, attended the very school she now works at. I sat down with Ms. Nguyen to hear about her Tahoma experience and how the school has evolved in the eleven years since its founding. 
 

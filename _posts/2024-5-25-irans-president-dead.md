@@ -6,8 +6,6 @@ comments: false
 categories:
   - world news
 image: assets/images/iran_president_dead_header.webp
-tags:
-  - featured
 ---
 
 Ebrahim Raisi, the president of Iran, was killed in a helicopter crash on Sunday. He was 63 years old.

@@ -7,8 +7,6 @@ comments: false
 categories:
   - local news
 image: assets/images/super_tuesday_header.jpg
-tags:
-  - featured
 ---
 Tomorrow is Super Tuesday, meaning in 15 states, the primary election will be held for President, Congress, State Assembly, and Senate. Unlike the November elections that decide who will be in office, a primary election decides who is most likely to win their race. Every vote cast for this primary here in California will decide who will get the nomination for each party race to run against each other in November, except for the Senate race. The Senate has 2 spaces on this primary ballot: one for the candidate's electability and one to replace Lephonza Butler, the interim Senator holding the late Dianne Feinstein's seat until November. It's important to note that the candidate who will hold Butler's seat will most likely also be elected in November. By voting in this primary, you will be able to use your democratic right to decide who you want to see running in November. 
 

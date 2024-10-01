@@ -7,8 +7,6 @@ categories:
   - tahoma news
   - local news
 image: assets/images/bomb_cyclone.webp
-tags:
-  - featured
 ---
 Earlier this week, a record-breaking storm slammed into California, causing a massive amount of damage and power outages across the state.
 

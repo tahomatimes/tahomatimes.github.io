@@ -6,8 +6,6 @@ comments: false
 categories:
   - local news
 image: assets/images/speed_stat.png
-tags:
-  - featured
 ---
 In 2022, 65 San José citizens lost their lives on small, local roads due to speeding vehicles. Bill AB-645 aims to lower this number for the future.
 
