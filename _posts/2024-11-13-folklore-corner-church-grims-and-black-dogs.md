@@ -19,9 +19,9 @@ Not all church grims and black dogs are violent, however. Though less known than
 
 The Moddey Doo (more accurately known as the Mauthe Doog) is one such keeper of order. A massive black spaniel with shaggy, curly fur haunting Peel Castle may sound like nothing more than fiction, but perhaps there’s some truth to the story. George Waldron, when writing _History and Description of the Isle of Man_, described the legend as follows:
 
-```plaintext
+{% highlight ruby %}
 They say, that an apparition called, in their language, the Mauthe Doog, in the shape of a large black spaniel with curled shaggy hair, was used to haunt Peel Castle; and has been frequently seen in every room, but particularly in the guard-chamber, where, as soon as candles were lighted, it came and lay down before the fire in presence of all the soldiers, who at length, by being so much accustomed to the sight of it, lost great part of the terror they were seized with at its first appearance.
-```
+{% endhighlight %}
 
 Additionally, Waldron also described an incident in which a drunken castle guard made the choice to break the routine and tried to lock up the castle all on his own. Snatching up the keys, he headed down the eerie passage Moddey Doo was said to haunt when it wasn’t his turn. Noises sounded from within the darkness, and seconds later, he returned to the guardroom pale as a ghost. Too frightened to share what he had seen, he died within three days. That was the last time anyone saw the dog, and the passage was sealed up shortly after. The story has some variations, some saying that it was a soldier who made the mistake, some saying that Moddey Doo is just as malevolent as its many cousins, but the beats are all the same. It seems that should the black hound be real, it had strong opinions on what was done with the castle it haunted.
 
