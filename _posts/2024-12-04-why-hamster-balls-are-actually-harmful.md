@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Hamster Balls Are Actually Harmful"
-author: julia
+author: kiyo
 editor: medha
 comments: false
 categories:
