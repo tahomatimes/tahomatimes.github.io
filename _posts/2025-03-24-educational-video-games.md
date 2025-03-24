@@ -7,7 +7,7 @@ comments: false
 categories:
   - technology
   - informative
-image: assets/images/vta_strike_header.avif
+image: assets/images/educational_video_games.avif
 ---
 
 As the video game market becomes more dense than ever, it is important to reflect on educational games of the past that brought people genuine value. We will do that in a few ways: first, we will break down the various ways that video games impact education as a whole. Then, we'll analyze the most popular educational video games of the last century and early this century to show how the industry for educational games has changed. 
