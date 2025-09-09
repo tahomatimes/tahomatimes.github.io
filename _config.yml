@@ -29,26 +29,13 @@ authors:
     email: mmehra.ta@mysummitps.org
   #    twitter:
 
-  sean:
-    name: Sean Dolan
-    shortname: Sean
-    avatar: assets/images/avatar_sean.jpg
-    bio: "I am Sean, and this is my second year covering news at the Tahoma Times. I enjoy covering stories surrounding this school or other important stuff in this world."
-    email: sdolan.ta@mysummitps.org
-
-  anush:
-    name: Anush Narasimhan
-    shortname: Anush
-    avatar: assets/images/avatar_anush.jpg
-    bio: "Hi! I'm Anush Narasimhan, a 12th grade Journalist at Tahoma. I am Kannadiga Tamilian and passionate about covering social issues, Tahoma news, South Asia, and political and social issues."
-    email: anarasimhan.de@mysummitps.org
-
-  kayleigh:
-    name: Kayleigh L. Vantrees
-    shortname: Kayleigh
-    avatar: assets/images/avatar_kayleigh.jpg
-    bio: "Hello! I am an illustrator for the journalism club at Tahoma. I enjoy drawing topics about special school events, students, and humorous things. "
-    email: kvantrees.ta@mysummitps.org
+  kaiden:
+    name: Kaiden Hickson
+    shortname: Kaiden
+    avatar: assets/images/avatar_kaiden.jpg
+    bio: "[2023-24 Contributor] I am a photographer and journalist in 10th grade at Summit Tahoma. I will cover topics about nature, 
+          non-national politics, and language & culture."
+    email: khickson.ta@mysummitps.org
 
   maddie:
     name: Maddie Flowers
@@ -164,22 +151,40 @@ authors:
     avatar: assets/images/avatar_saarang.jpg
     bio: "I'm a junior working in Marketing, and I enjoy covering both global and local stories related to Tahoma."
 
+  ammanuel:
+    name: Ammanuel Abiy
+    shortname: Ammanuel
+    avatar: assets/images/avatar_ammanuel.png
+    bio: "Hi I’m a 12th grade marketer at Tahoma I help out with getting people hyped to read our articles."
 
   #Past Contributors
+  sean:
+    name: Sean Dolan
+    shortname: Sean
+    avatar: assets/images/avatar_sean.jpg
+    bio: "[2023-2025 Contributor] I am Sean, and this is my second year covering news at the Tahoma Times. I enjoy covering stories surrounding this school or other important stuff in this world."
+    email: sdolan.ta@mysummitps.org
+
+  anush:
+    name: Anush Narasimhan
+    shortname: Anush
+    avatar: assets/images/avatar_anush.jpg
+    bio: "[2023-2025 Contributor] Hi! I'm Anush Narasimhan, a 12th grade Journalist at Tahoma. I am Kannadiga Tamilian and passionate about covering social issues, Tahoma news, South Asia, and political and social issues."
+    email: anarasimhan.de@mysummitps.org
+
+  kayleigh:
+    name: Kayleigh L. Vantrees
+    shortname: Kayleigh
+    avatar: assets/images/avatar_kayleigh.jpg
+    bio: "[2023-2025 Contributor] Hello! I am an illustrator for the journalism club at Tahoma. I enjoy drawing topics about special school events, students, and humorous things. "
+    email: kvantrees.ta@mysummitps.org
+
   laney:
     name: Laney McBride
     shortname: Laney
     avatar: assets/images/avatar_laney.jpeg
     bio: "[2023-24 Contributor] Hi! I am Laney McBride, a 9th grade Journalist and Photographer at Tahoma. I enjoy covering pieces on climate change, politics, and local Tahoma news."
     email: lmcbride.ta@mysummitps.org
-
-  kaiden:
-    name: Kaiden Hickson
-    shortname: Kaiden
-    avatar: assets/images/avatar_kaiden.jpg
-    bio: "[2023-24 Contributor] I am a photographer and journalist in 10th grade at Summit Tahoma. I will cover topics about nature, 
-          non-national politics, and language & culture."
-    email: khickson.ta@mysummitps.org
 
   meg:
     name: Meg Mulcaster
