@@ -107,7 +107,7 @@ authors:
     name: George Harper
     shortname: George
     avatar: assets/images/avatar_george.png
-    bio: "Howdy! I'm an 11th grade artist and writer at Summit Tahoma. I primarily cover folklore and weird science facts, which I hope will help brighten people's days and teach them a little something new."
+    bio: "Howdy! I'm a 12th grade artist and writer at Summit Tahoma. This is my second (and sadly last) year in charge of the Folklore Corner, so I'm hoping to make it a good one. I hope it'll teach you something new, brighten your day, and leave a lasting impact."
 
   rachel:
     name: Rachel Ignatovsky
@@ -156,6 +156,24 @@ authors:
     shortname: Ammanuel
     avatar: assets/images/avatar_ammanuel.png
     bio: "Hi I’m a 12th grade marketer at Tahoma I help out with getting people hyped to read our articles."
+
+  rehaan:
+    name: Rehaan Mundy
+    shortname: Rehaan
+    avatar: assets/images/avatar_rehaan.jpeg
+    bio: "Hello! My name is Rehaan Mundy: a 12th grader interested in writing about math, computer science, and economics."
+
+  daniil:
+    name: Daniil Solovov
+    shortname: Daniil
+    avatar: assets/images/avatar_daniil.jpeg
+    bio: "Hello, I am 12th grade Journalist at Tahoma. I wish to cover pieces on geopolitics,governments, and random conspiracy theories and political topics."
+
+  jeet:
+    name: Jeet Lad
+    shortname: Jeet
+    avatar: assets/images/avatar_jeet.jpeg
+    bio: "My name’s Jeet and I’m in marketing. I enjoy motorcycles!"
 
   #Past Contributors
   sean:
