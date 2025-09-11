@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Severe Weather Patterns Will Cause a Wetter Winter Than Usual"
-author: bruhns
+author: sada
 editor: baja
 comments: false
 categories:
