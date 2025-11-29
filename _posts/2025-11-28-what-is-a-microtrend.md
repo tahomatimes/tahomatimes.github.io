@@ -31,5 +31,3 @@ _&#xA0;_[_https://globalfashionagenda.org/news-article/examining-the-era-of-micr
 [_https://harbingersmagazine.com/articles/microtrends-are-the-death-of-individuality-we-should-be-wary-of-overconsumption-by-maria-mitko_](https://harbingersmagazine.com/articles/microtrends-are-the-death-of-individuality-we-should-be-wary-of-overconsumption-by-maria-mitko)_&#xA0;_
 
 [_buisnesswaste.co.uk_](https://www.businesswaste.co.uk/waste-facts/fashion-waste-facts-and-statistics/#:~:text=The%20UN%20Environment%20Programme%20estimates,is%20from%20the%20fashion%20industry)_&#xA0;_
-
-[_https://thedruidscauldron.net/2022/10/10/a-few-tales-relating-to-the-kelpie/_](https://thedruidscauldron.net/2022/10/10/a-few-tales-relating-to-the-kelpie/)
