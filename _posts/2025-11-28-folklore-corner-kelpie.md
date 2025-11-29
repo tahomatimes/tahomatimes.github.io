@@ -6,6 +6,8 @@ comments: false
 categories:
   - folklore corner
 image: assets/images/folklore_corner_kelpie_header.png
+tags:
+  - sticky
 ---
 
 It’s advisable not to touch strange horses. They’re large animals with the mentality of a car that has been given the ability to feel fear, and if they decide they don’t like you, you probably aren’t winning that fight. In general, they behave like herbivorous motorcycles driven by a perpetual sense of road rage, and anyone who works closely with them can easily tell you that they are not to be trifled with. While this article is in no way meant to disrespect horses, it should go without saying that in Scottish folklore, they get even worse. Meet the kelpie, a dangerous water creature that presents itself in equine form and stands by bodies of water looking pretty so that passerby will jump onto its back, at which point it rushes into the water and drowns them as its next meal. In many depictions, it takes the form of a beautiful black or white horse with a flowing mane and tail (and backwards hooves) when on land, but becomes a black and slimy lake monster in the shape of an equine with sharp teeth upon contact with water. The nature of the creature makes it iconic to Scotland’s mythology, perhaps second only to Nessie.

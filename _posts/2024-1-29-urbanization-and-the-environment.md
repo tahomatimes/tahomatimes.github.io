@@ -10,7 +10,6 @@ categories:
 image: assets/images/urbanization_header.png
 tags:
   - featured
-  - sticky
 ---
 California has some of the most populous cities in America, with 9 cities making the top 50. These cities are so populated because of the abundance of options available in urban areas. For instance, more job opportunities exist in a wider variety of fields, enticing people who live in rural areas to move. 
 
