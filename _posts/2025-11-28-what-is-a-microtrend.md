@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is a Microtrend?
+title:  "What is a Microtrend?"
 author: juliab
 editor: medha
 comments: false
