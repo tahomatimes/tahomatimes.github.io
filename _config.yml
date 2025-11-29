@@ -29,6 +29,42 @@ authors:
     email: mmehra.ta@mysummitps.org
   #    twitter:
 
+  george:
+    name: George Harper
+    shortname: George
+    avatar: assets/images/avatar_george.png
+    bio: "Howdy! I'm a 12th grade artist and writer at Summit Tahoma. This is my second (and sadly last) year in charge of the Folklore Corner, so I'm hoping to make it a good one. I hope it'll teach you something new, brighten your day, and leave a lasting impact."
+
+  julia:
+    name: Julia Somlo
+    shortname: Julia
+    avatar: assets/images/avatar_julia.jpg
+    bio: "Hi I am a 10th grade Technology Journalist at Tahoma. I enjoy covering pieces on technology (AI), climate change (AI impact), and business news (AI)."
+
+  daniil:
+    name: Daniil Solovov
+    shortname: Daniil
+    avatar: assets/images/avatar_daniil.jpeg
+    bio: "Hello, I am 12th grade Journalist at Tahoma. I wish to cover pieces on geopolitics,governments, and random conspiracy theories and political topics."
+
+  juliab:
+    name: Julia Burk
+    shortname: Julia
+    avatar: assets/images/avatar_juliab.jpg
+    bio: "Hello! I'm Julia, a 9th grade writer for the Tahoma Times. I'll cover anything that interests me, usually current events going on in the world and my many opinions."
+
+  scarlett:
+    name: Scarlett Juszkiewicz
+    shortname: Scarlett
+    avatar: assets/images/avatar_scarlett.jpg
+    bio: "Hello I'm Scarlett. I'm a 9th grade Writer at Tahoma Times. I usually enjoy writing about cryptids, marine biology, and really anything that interests me."
+
+  maya:
+    name: Maya Shasky
+    shortname: Maya
+    avatar: assets/images/avatar_maya.jpg
+    bio: "Hi! My name is Maya and I'm a 10th grader here at Summit Tahoma. I like to write about a variety of things  but most things that I stay focused on are teens mental health and how mental health can be developed."
+
   ammanuel:
     name: Ammanuel Abiy
     shortname: Ammanuel
@@ -40,18 +76,6 @@ authors:
     shortname: Rehaan
     avatar: assets/images/avatar_rehaan.jpeg
     bio: "Hello! My name is Rehaan Mundy: a 12th grader interested in writing about math, computer science, and economics."
-
-  daniil:
-    name: Daniil Solovov
-    shortname: Daniil
-    avatar: assets/images/avatar_daniil.jpeg
-    bio: "Hello, I am 12th grade Journalist at Tahoma. I wish to cover pieces on geopolitics,governments, and random conspiracy theories and political topics."
-
-  george:
-    name: George Harper
-    shortname: George
-    avatar: assets/images/avatar_george.png
-    bio: "Howdy! I'm a 12th grade artist and writer at Summit Tahoma. This is my second (and sadly last) year in charge of the Folklore Corner, so I'm hoping to make it a good one. I hope it'll teach you something new, brighten your day, and leave a lasting impact."
 
   jeet:
     name: Jeet Lad
@@ -83,23 +107,6 @@ authors:
     avatar: assets/images/avatar_luka.png
     bio: "Professional yapper and psychology enthusiast. Will gladly evaluate your brain. Hit me up"
 
-  juliab:
-    name: Julia Burk
-    shortname: Julia
-    avatar: assets/images/avatar_juliab.jpg
-    bio: "Hello! I'm Julia, a 9th grade writer for the Tahoma Times. I'll cover anything that interests me, usually current events going on in the world and my many opinions."
-
-  julia:
-    name: Julia Somlo
-    shortname: Julia
-    avatar: assets/images/avatar_julia.jpg
-    bio: "Hi I am a 10th grade Technology Journalist at Tahoma. I enjoy covering pieces on technology (AI), climate change (AI impact), and business news (AI)."
-
-  scarlett:
-    name: Scarlett Juszkiewicz
-    shortname: Scarlett
-    avatar: assets/images/avatar_scarlett.jpg
-    bio: "Hello I'm Scarlett. I'm a 9th grade Writer at Tahoma Times. I usually enjoy writing about cryptids, marine biology, and really anything that interests me."
 
   kaiden:
     name: Kaiden Hickson
