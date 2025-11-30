@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Opinion: Privacy vs. Health and the Dark Reality of Brain Chips"
+title:  "Privacy vs. Health: The Dark Reality of Brain Chips"
 author: julia
 editor: medha
 comments: false
