@@ -5,9 +5,9 @@ author: daniil
 editor: baja
 comments: false
 categories:
-  - opinion
-  - technology
-image: assets/images/reading_vs_scrolling_header.avif
+  - world news
+  - informative
+image: assets/images/extremism_header.avif
 tags:
   - featured
 ---
