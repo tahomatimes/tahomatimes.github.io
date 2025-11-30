@@ -35,6 +35,8 @@ When a political party makes a mistake, or many mistakes. Society must respond w
 
 [_https://www.thebritishacademy.ac.uk/blog/what-is-extremism/_](https://www.thebritishacademy.ac.uk/blog/what-is-extremism/)_&#xA0;_
 
-[_https://direct.mit.edu/isec/article/43/4/7/12221/Bound-to-Fail-The-Rise-and-Fall-of-the-Liberal_](https://direct.mit.edu/isec/article/43/4/7/12221/Bound-to-Fail-The-Rise-and-Fall-of-the-Liberal)_&#xA0;_
+[_https://direct.mit.edu/isec/article/43/4/7/12221/Bound-to-Fail-The-Rise-and-Fall-of-the-Liberal_](https://direct.mit.edu/isec/article/43/4/7/12221/Bound-to-Fail-The-Rise-and-Fall-of-the-Liberal)
 
-[_https://www.economist.com/books-and-arts/2018/01/27/liberalism-is-the-most-successful-idea-of-the-past-400-years_](https://www.economist.com/books-and-arts/2018/01/27/liberalism-is-the-most-successful-idea-of-the-past-400-years)_&#xA0;_[_https://www.facinghistory.org/resource-library/political-polarization-united-states_](https://www.facinghistory.org/resource-library/political-polarization-united-states)_&#xA0;_
+[_https://www.economist.com/books-and-arts/2018/01/27/liberalism-is-the-most-successful-idea-of-the-past-400-years_](https://www.economist.com/books-and-arts/2018/01/27/liberalism-is-the-most-successful-idea-of-the-past-400-years)
+
+[_https://www.facinghistory.org/resource-library/political-polarization-united-states_](https://www.facinghistory.org/resource-library/political-polarization-united-states)
