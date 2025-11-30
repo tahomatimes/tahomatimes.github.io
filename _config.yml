@@ -107,53 +107,32 @@ authors:
     avatar: assets/images/avatar_luka.png
     bio: "Professional yapper and psychology enthusiast. Will gladly evaluate your brain. Hit me up"
 
-
   kaiden:
     name: Kaiden Hickson
     shortname: Kaiden
     avatar: assets/images/avatar_kaiden.jpg
     bio: "Hi! I am a journalist and photographer in 12th grade at Summit Tahoma. I cover topics about nature, non-national politics, and language & culture."
 
-  #Not Updated Yet
-  jette:
-    name: Jette Sandstrom
-    shortname: Jette
-    avatar: assets/images/avatar_jette.jpg
-    bio: "I am a 10th grade marketer at Tahoma Times. I will advertise this club and our articles."
-    email: jsandstrom.ta@mysummitps.org
-
   millen:
     name: Millen Kidane
     shortname: Millen
     avatar: assets/images/avatar_millen.png
-    bio: "Hi, my name is Millen Kidane. I am an 11th grade marketer at Tahoma. I will help spread the word about our stories."
+    bio: "Hi, my name is Millen Kidane. I am an 12th grade marketer at Tahoma. I will help spread the word about our stories."
     email: mkidane.ta@mysummitps.org
 
   sarah:
     name: Sarah Johnson
     shortname: Sarah
     avatar: assets/images/avatar_sarah.jpg
-    bio: "Hi! I'm a junior and the head of marketing for the Tahoma Times. I will be advertising articles written by other students."
+    bio: "Hi! I'm a senior and the head of marketing for the Tahoma Times. I will be advertising articles written by other students."
     email: sjohnson.ta@mysummitps.org
 
   sahana:
     name: Sahana Vimal
     shortname: Sahana
     avatar: assets/images/avatar_sahana.jpg
-    bio: "Hi I'm a junior, lead photographer and I run our instagram page @tahoma_journalism (:"
+    bio: "Hi I'm a senior, lead photographer and I run our instagram page @tahoma_journalism (:"
     email: svimal.ta@mysummitps.org
-
-  nolan:
-    name: Nolan Ku
-    shortname: Nolan
-    avatar: assets/images/avatar_nolan.jpeg
-    bio: "I’m a Junior and writer at Summit Tahoma. I love to cover topics in the tech space and covering the latest advancements in that field."
-
-  rachel:
-    name: Rachel Ignatovsky
-    shortname: Rachel
-    avatar: assets/images/avatar_rachel.jpg
-    bio: "Hi! I am an 11th grader and I enjoy writing statistical essays and sharing my opinions on different types of topics such as video games, criminology, and celebrity news."
 
   miriam:
     name: Miriam Hunter
@@ -165,13 +144,13 @@ authors:
     name: Addy Carpenter
     shortname: Addy
     avatar: assets/images/avatar_addy.jpg
-    bio: "HI!  I am an 11th grader, I like making recipes of pasta, politics, and Taylor Swift. "
+    bio: "HI!  I am an 12th grader, I like making recipes of pasta, politics, and Taylor Swift. "
 
   saarang:
     name: Saarang Sumesh
     shortname: Saarang
     avatar: assets/images/avatar_saarang.jpg
-    bio: "I'm a junior working in Marketing, and I enjoy covering both global and local stories related to Tahoma."
+    bio: "I'm a senior working in Marketing, and I enjoy covering both global and local stories related to Tahoma."
 
 
   #Past Contributors
@@ -250,6 +229,27 @@ authors:
     bio: "[2023-24 Contributor] My name is Baja Allen and I am a journalist. I will be covering politics and write op eds about current political topics and issues facing us both nationally and locally. I will also write about movies or tv shows when there is one that is better than the rookie."
     email: ballen.ta@mysummitps.org
 
+
+#  jette:
+#    name: Jette Sandstrom
+#    shortname: Jette
+#    avatar: assets/images/avatar_jette.jpg
+#    bio: "I am a 10th grade marketer at Tahoma Times. I will advertise this club and our articles."
+#    email: jsandstrom.ta@mysummitps.org
+#
+#  nolan:
+#    name: Nolan Ku
+#    shortname: Nolan
+#    avatar: assets/images/avatar_nolan.jpeg
+#    bio: "I’m a Junior and writer at Summit Tahoma. I love to cover topics in the tech space and covering the latest advancements in that field."
+#
+#  rachel:
+#    name: Rachel Ignatovsky
+#    shortname: Rachel
+#    avatar: assets/images/avatar_rachel.jpg
+#    bio: "Hi! I am an 11th grader and I enjoy writing statistical essays and sharing my opinions on different types of topics such as video games, criminology, and celebrity news."
+#
+#
 
 #  arya:
 #    name: Arya Lurie
