@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "What is the Impact of Historical Foreign Intervention in Africa?"
+author: daniil
+editor: baja
+comments: false
+categories:
+  - informative
+  - history
+image: assets/images/africa_intervention_article.avif
+---
+Beginning in the 1960s and ending at in the 2010s, countries composing Africa began declaring their independence from the European Nations that had colonized them long ago. By the time the wave of independence ended, a new era in the world had begun. It seemed that the stage where colonization was viewed with contempt and the conquest of territories as something from a bygone era. However, despite many countries’ disgust at foreign invasion and starting wars, there was a strong desire for major powers on both sides to either maintain the current global order led by the United States, or to topple the American hegemony and become the new world superpower, which countries like Russia and China very much wanted to do. Though the Cold War ended long ago, countries from both sides would engage in whatever means necessary to come out on top and lead the world order. The two main players in this specific case would be France and Russia.
+
+Even though the colonizing powers had been kicked out of Africa, African countries faced many challenges that are still present today. Corruption ran rampant, local economies were fragile, and the governments of these countries were unstable and susceptible to collapse at any given moment. These issues caused 2 immediate consequences, with those being: sustained instability through a really cruel feedback loop, and extremist militant groups re-emerging and making use of this chaos. The most notable of these groups would be the various branches and detachments of the Islamic State, which have rooted themselves within the disorder happening in the countries, hiding after the fall of the main Islamic State of Iraq and the Levant (ISIS for short). These detachments siphon resources and manpower from the locals through force by massacre in order fuel their global efforts. Normally, foreign powers would care little about these conflicts from so far away, but after terrorist attacks hit a little too close to home, the governments of the foreign powers finally took action. However, right before that happened, they remembered that Africa is full of resources and how much money there is to be made.
+
+The first significant Western military mission in West Africa took the form of “Operation Serval,” where French expeditionary forces arrived to take on Islamist forces in Mali and reclaim key cities in the north for the Malian government. The operation was a major success and established a long-term French military presence in West Africa. Several decades before this, the CFA franc was established when the West African commonwealth was under French rule. The reason for its creation was that the franc had heavily weakened as a result of WWII, and so custom currencies were made for colonies to prevent them from being devalued. However, the CFA franc remained long after decolonization and remains a link to their colonial past since the CFA franc has a fixed exchange rate with the euro and is supported by France–making it so that the currencies of West African nations remain linked to France; their former colonizer. The addition of the CFA franc was a not-very-subtle move to ensure that French colonial presence persisted even after its removal.  
+
+These aforementioned things done by the French created an environment present in a lot of West African nations that received such intervention (Mali, Guinea, and Niger just to name a few), where the economy became attached and dependent to a degree on the French. This extended militarily after Operation Serval since the French proved more than capable of holding back the Islamist militias threatening the region which would be good by itself. However, the local governments found themselves in an uphill battle with these militias and so the French pulling up and pushing them so far back with ulterior motives creates a situation where an african nation under french influence wanting to break out will suffer the removal of the economic and military aid. However, from this situation, 2 outcomes occur. The first outcome is to resist. Mali underwent a military coup and became a junta with Russia to help out economically and militarily. Though of this first outcome, 2 things happened. The first is that Russia became preoccupied with the war in Ukraine to put any real focus into the West African cause and the second is that the forces that were present being named the Africa Corps proved to have very malicious intent and no real goal of helping the locals instead opting for the alternative known as massacring the local populace. Oh, and they, along with the junta-led Malian regime, failed fight off militias. A little funny that a military-led country falters when facing other militaries. The second outcome is to embrace the intervention and become one with the neo-colonizer. This is most seen along the Ivory Coast, or Côte d'Ivoire, if you speak French. The Ivory Coast is, at first glance, the better outcome, and it is on many levels. However, there is a limit to how much a country can truly develop when it is so dependent on foreign powers. These 2 outcomes, despite being so different, are frankly two sides of the same evil of dependency.
+
+The ultimate impact of the conflicts and “solutions” present creates so many humanitarian crises where people have nowhere to go, so they have no choice but to go to places where they have trouble integrating, and this trouble with integration creates conflict within the nations that the refugees have fled to and this conflict leads to the rise of extremist ideology. The solution lies in limiting foreign intervention and allowing the locals who truly desire the betterment of their country, because only then can West Africa escape the shackles of poverty and insurgency.
+
+**Sources:**
+
+[_header image_](https://unsplash.com/photos/a-close-up-of-a-map-of-africa-pDU95uBp5Uw)_&#x20;used under the Unsplash License_
+
+[_https://en.wikipedia.org/wiki/Jessica\_Walter_](https://en.wikipedia.org/wiki/Jessica_Walter)_&#xA0;_
+
+[_https://www.thoughtco.com/chronological-list-of-african-independence-4070467_](https://www.thoughtco.com/chronological-list-of-african-independence-4070467)_&#xA0;_
+
+[_https://www.cfr.org/global-conflict-tracker/conflict/violent-extremism-sahel_](https://www.cfr.org/global-conflict-tracker/conflict/violent-extremism-sahel)_&#xA0;_
+
+[_https://www.swp-berlin.org/en/publication/mta-spotlight-62-the-changing-face-of-foreign-intervention-in-african-conflicts_](https://www.swp-berlin.org/en/publication/mta-spotlight-62-the-changing-face-of-foreign-intervention-in-african-conflicts)_&#xA0;&#xA0;_
+
+[_https://www.airuniversity.af.edu/Portals/10/ASPJ\_French/journals\_E/volume-06\_Issue-3/spet\_e.pdf_](https://www.airuniversity.af.edu/Portals/10/ASPJ_French/journals_E/volume-06_Issue-3/spet_e.pdf)_&#xA0;_
+
+[_https://taxjustice.net/2021/03/22/the-cfa-franc-as-a-vivid-symbol-of-colonial-continuities-in-francophone-africa/_](https://taxjustice.net/2021/03/22/the-cfa-franc-as-a-vivid-symbol-of-colonial-continuities-in-francophone-africa/)_&#xA0;_
+
+[_https://apnews.com/article/mali-russia-africa-corps-mauritania-refugees-abuses-2935dd1b50397242a968f69e1dde61f2_](https://apnews.com/article/mali-russia-africa-corps-mauritania-refugees-abuses-2935dd1b50397242a968f69e1dde61f2)_&#xA0;_
